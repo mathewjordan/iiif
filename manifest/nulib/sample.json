@@ -1,0 +1,127 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "http://localhost:3000/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Abbey Church of Saint Etienne and Abbaye aux Hommes, Caen. Total view of W facade"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Abstract"
+        ]
+      },
+      "value": {
+        "none": [
+          "unknown (unknown cultural designation)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          null
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "unknown (unknown cultural designation)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1067"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Department"
+        ]
+      },
+      "value": {
+        "none": [
+          null
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "none": [
+          "architecture (object genre)",
+          "architecture (discipline)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Provenance"
+        ]
+      },
+      "value": {
+        "none": [
+          "Caen ; France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Style Period"
+        ]
+      },
+      "value": {
+        "none": [
+          "Romanesque"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "none": [
+          "Architecture (Topical)"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "none": [
+      "Begun 1067"
+    ]
+  },
+  "items": []
+}
