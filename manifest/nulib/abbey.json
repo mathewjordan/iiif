@@ -1,0 +1,387 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kdid.dev.rdc.library.northwestern.edu:3002/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Abbey Church of Saint Etienne and Abbaye aux Hommes, Caen. Total view of W facade"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Alternate Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "yes",
+          "no"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Abstract"
+        ]
+      },
+      "value": {
+        "none": [
+          "why"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Caption"
+        ]
+      },
+      "value": {
+        "none": [
+          "nothing",
+          "yes"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "Joy of Giving Something, Inc. (Editor of moving image work)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "unknown (unknown cultural designation)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1067",
+          "circa 1650?"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "4 3/4 inches"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "none": [
+          "architecture (object genre)",
+          "architecture (discipline)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Keyword"
+        ]
+      },
+      "value": {
+        "none": [
+          "one",
+          "two"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Last Modified"
+        ]
+      },
+      "value": {
+        "none": "2022-10-21T18:57:26.931561Z"
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Materials"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 sound disc (50 min., 34 sec.) or 1 sound disc (50 min., 35 sec.) : digital, stereo"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notes"
+        ]
+      },
+      "value": {
+        "none": [
+          "this is a local note (Local Note)",
+          "general note (General Note)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Provenance"
+        ]
+      },
+      "value": {
+        "none": [
+          "Caen ; France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Publisher"
+        ]
+      },
+      "value": {
+        "none": [
+          "aslkdjf;laksdf",
+          "asdfasfd"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Related Material"
+        ]
+      },
+      "value": {
+        "none": [
+          "material 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Related URL"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=http://google.com>Hathi Trust Digital Library</a></span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Holder"
+        ]
+      },
+      "value": {
+        "none": [
+          "you"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Scope and Contents"
+        ]
+      },
+      "value": {
+        "none": [
+          "44444"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Series"
+        ]
+      },
+      "value": {
+        "none": [
+          "56"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Source"
+        ]
+      },
+      "value": {
+        "none": [
+          "sadfasdfas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Style Period"
+        ]
+      },
+      "value": {
+        "none": [
+          "Romanesque"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "none": [
+          "Architecture (Topical)",
+          "Tornadoes (Geographical)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Technique"
+        ]
+      },
+      "value": {
+        "none": [
+          "France--Nice"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "none": [
+      "Begun 1067",
+      "second description"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries",
+        "The images on this web site, from material in the collections of Northwestern University Libraries, are provided for use by its students, faculty and staff, and by other researchers visiting this site, for research consultation and scholarly purposes only. Further distribution and/or any commercial use of the images from this site is not permitted."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://dcapi.rdc-staging.library.northwestern.edu/works/0079f576-b1ad-454d-89fc-87c96a32c09e/thumbnail",
+      "type": "Image",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://dcapi.rdc-staging.library.northwestern.edu/works/0079f576-b1ad-454d-89fc-87c96a32c09e",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc-next.rdc-staging.library.northwestern.edu/items/0079f576-b1ad-454d-89fc-87c96a32c09e",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Homepage at Northwestern University Libraries Digital Collections"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://kdid.dev.rdc.library.northwestern.edu:3002/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif/canvas/0",
+      "type": "Canvas",
+      "height": 0,
+      "width": 0,
+      "label": {
+        "none": [
+          "inu-dil-066fcfe9-c961-4dd3-8a62-54d610ebef20.tif"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://kdid.dev.rdc.library.northwestern.edu:3002/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif/canvas/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://kdid.dev.rdc.library.northwestern.edu:3002/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://kdid.dev.rdc.library.northwestern.edu:3002/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif/canvas/0",
+              "body": {
+                "id": "https://iiif.dev.rdc.library.northwestern.edu/iiif/2/kdid-dev/84306557-dd26-4066-8b7d-20730422f917/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 0,
+                "width": 0,
+                "service": [
+                  {
+                    "@id": "https://iiif.dev.rdc.library.northwestern.edu/iiif/2/kdid-dev/84306557-dd26-4066-8b7d-20730422f917",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
