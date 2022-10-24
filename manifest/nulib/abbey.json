@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://kdid.dev.rdc.library.northwestern.edu:3002/works/0079f576-b1ad-454d-89fc-87c96a32c09e?as=iiif",
+  "id": "https://github.com/mathewjordan/iiif/edit/main/manifest/nulib/abbey.json",
   "type": "Manifest",
   "label": {
     "none": [
