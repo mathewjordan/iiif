@@ -1,0 +1,23 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/paged-1.json",
+  "type": "Collection",
+  "label": { "none": ["Paged Collection - Page 1"] },
+  "items": [
+    {
+      "id": "https://example.org/iiif/result-1.json",
+      "type": "Manifest",
+      "label": { "none": ["Paged Collection - Result 1"] }
+    },
+    {
+      "id": "https://example.org/iiif/result-2.json",
+      "type": "Manifest",
+      "label": { "none": ["Paged Collection - Result 2"] }
+    },
+    {
+      "id": "https://example.org/iiif/paged-2.json",
+      "type": "Collection",
+      "label": { "none": ["Paged Collection - Page 2"] }
+    }
+  ]
+}
