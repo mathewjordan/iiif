@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.vam.ac.uk/collections/O9138/manifest.json",
+  "@id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/cordelia/O9138.json",
   "@type": "sc:Manifest",
   "label": "Great Bed of Ware",
   "metadata": [
