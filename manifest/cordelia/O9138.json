@@ -1,4 +1,5 @@
 {
+  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://iiif.vam.ac.uk/collections/O9138/manifest.json",
   "@type": "sc:Manifest",
   "label": "Great Bed of Ware",
