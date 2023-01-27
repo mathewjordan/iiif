@@ -3,7 +3,7 @@
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "type": "Collection",
-  "id": "https://preview.iiif.io/cookbook/update_newspaper/recipe/0068-newspaper/newspaper_title-collection.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/collection/0068.json",
   "label": {
     "de": [
       "Berliner Tageblatt"
