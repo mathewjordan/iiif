@@ -314,8 +314,8 @@
       "placeholderCanvas": {
         "id": "https://api.dc.library.northwestern.edu/api/v2/works/0cd408af-ed9b-4dd1-a5a1-52dadcc667f5?as=iiif/canvas/access/0/placeholder",
         "type": "Canvas",
-        "width": 900,
-        "height": 615,
+        "height": 900,
+        "width": 615,
         "items": [
           {
             "id": "https://api.dc.library.northwestern.edu/api/v2/works/0cd408af-ed9b-4dd1-a5a1-52dadcc667f5?as=iiif/canvas/access/0/placeholder/0",
@@ -329,8 +329,8 @@
                   "id": "https://iiif.dc.library.northwestern.edu/iiif/2/8b3ae6bc-a41b-4da2-98ca-6ac90fb38186/full/!900,900/0/default.jpg",
                   "type": "Image",
                   "format": "image/jpg",
-                  "width": 900,
-                  "height": 615
+                  "height": 900,
+                  "width": 615
                 },
                 "target": "https://api.dc.library.northwestern.edu/api/v2/works/0cd408af-ed9b-4dd1-a5a1-52dadcc667f5?as=iiif/canvas/access/0/placeholder"
               }
