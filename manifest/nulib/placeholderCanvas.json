@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://api.dc.library.northwestern.edu/api/v2/works/0cd408af-ed9b-4dd1-a5a1-52dadcc667f5?as=iiif",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/nulib/placeholderCanvas.json",
   "type": "Manifest",
   "label": {
     "none": [
