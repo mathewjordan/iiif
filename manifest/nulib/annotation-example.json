@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/nulib/annotation-example.json",
   "type": "Manifest",
   "label": {
     "none": [
