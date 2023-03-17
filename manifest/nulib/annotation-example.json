@@ -3323,5 +3323,25 @@
         }
       ]
     }
+  ],
+  "annotations": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/1/annotations",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/1/annotations/1",
+          "type": "Annotation",
+          "motivation": "supplementing",
+          "body": {
+            "type": "FragmentSelector",
+            "language": "en",
+            "value": "Birds Eye"
+          },
+          "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/0#xywh=1398,975,4868,2462"
+        }
+      ]
+    }
   ]
+}
 }
