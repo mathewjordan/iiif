@@ -1,0 +1,3327 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Zanzibar"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Abstract"
+        ]
+      },
+      "value": {
+        "none": [
+          "Album of original photographs of Zanzibar. Unidentified photographers, 1905."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Caption"
+        ]
+      },
+      "value": {
+        "none": [
+          "Front cover. -- Page 1. Dhows in Zanzibar harbour. -- Page 2. Sultan’s Palace. -- Page 3. Photograph 1. Cove. -- Page 3. Photograph 2. European man seated at a desk. -- Page 3. Photograph 4. African men standing on a beach as others unload a barge behind them. -- Page 3. Photograph 4. Small island. -- Page 4. Photograph 1. Two European men seated at a dining table. -- Page 4. Photograph 2. Mangrove. -- Page 4. Photograph 3. Two European, an Indian, and an African man. -- Page 4. Photograph 4. Ships. -- Page 5. Photograph 1. Boats on the shore. -- Page 5. Photograph 2. Officers’ meal. -- Page 5. Photograph 3. Waterfront. -- Page 6. Photograph 1. Garden. -- Page 6. Photograph 2. Palm trees. -- Page 6. Photograph 3. Train. -- Page 6. Photograph 4. Creek. -- Page 7. Photograph 1. Officers on the beach. -- Page 7. Photograph 2. Arab woman wearing face mask. -- Page 7. Photograph 3. On deck. -- Page 8. Photograph 1. Two Swahili girls. -- Page 8. Photograph 2. Tea party. -- Page 8. Photograph 3. Garden. -- Page 9. Photograph 1. Huts. -- Page 9. Photograph 2. Sultan’s Palace. -- Page 9. Photograph 3. Shore. -- Page 9. Photograph 4. Colonial house. -- Page 10. Photograph 1. Rooftops. -- Page 10. Photograph 2. Officer on wall. -- Page 10. Photograph 3. Mangrove. -- Page 10. Photograph 4. Street in native quarter. -- Page 11. Photograph 1. European man. -- Page 11. Photograph 2. Swahili woman. -- Page 11. Photograph 3. Zanzibari man with bat. -- Page 12. Photograph 1. Boy with club. -- Page 12. Photograph 2. Traveller’s palm. -- Page 12. Photograph 3. Monkey. -- Page 12. Photograph 4. On deck. -- Page 12. Photograph 5. Camels. -- Page 13. Photograph 1. Swamp. -- Page 13. Photograph 2. Palm tree. -- Page 13. Photograph 3. Small island. -- Page 13. Photograph 4. Gathering at landing place. -- Page 14. Four Masai warriors. -- Page 15. Photograph 1. Ruined building with graveyard. -- Page 15. Photograph 2. European man. -- Page 15. Photograph 3. Zanzibari women carrying tins on heads ; Title from inventory: Zanzibari woman carrying tins on heads. -- Page 15. Photograph 4. Coastal view. -- Page 16. Photograph 1. Exotic plant. -- Page 16. Photograph 2. Four officers on coral outcrop. -- Page 16. Photograph 3. Palm grove. -- Page 17. Photograph 1. Native women hair dressing. -- Page 17. Photograph 2. Drying cloves. -- Page 17. Photograph 3. Soldiers marching. -- Page 18. Photograph 1. Zanzibari woman of high rank. -- Page 18. Photograph 2. Donkeys on beach. -- Page 18. Photograph 3. Graveyard. -- Page 18. Photograph 4. Wooden carousel. -- Page 19. Photograph 1. Young native woman. -- Page 19. Photograph 2. Tower. -- Page 19. Photograph 3. Street scene. -- Page 20. Photograph 1. Palm and hut. -- Page 20. Photograph 2. Native woman, baby strapped on back. -- Page 21. Photograph 1. Metal workers. -- Page 21. Photograph 2. Creek. -- Page 21. Photograph 3. Boats in harbour. -- Page 21. Photograph 4. Street market. -- Page 22. Colonial building. -- Page 23. Consulate. -- Page 24. Tree lined road. -- Page 25. Steam ships. -- Page 26. Photograph 1. River. -- Page 26. Photograph 2. Tree. -- Page 27. Photograph 1. Road. -- Page 27. Photograph 2. Three women sitting, washing on river bank. -- Page 28. Baobab tree ; Title from inventory: Boabab tree. -- Page 29. Photograph 1. Carousel. -- Page 29. Photograph 2. People strolling. -- Page 30. Social evening. -- Page 31. Three native musicians. -- Page 32. High ranking, young native woman. -- Page 33. Photograph 1. Colonial building, shelters from sun in foreground. -- Page 33. Photograph 2. Construction site. -- Page 34. Avenue. -- Page 35. Photograph 1. Drinks party. -- Page 35. Photograph 2. Bridge. -- Page 36. Military inspection / guard of honour. -- Page 37. Wild coastal view. -- Page 38. Sultan and other Zanzibari officials walking past cannon. -- Page 39. Parade past the Sultan’s Palace. -- Page 40. Waterfront. -- Page 41. Garden party. -- Page 42. Garden party. -- Page 43. Procession, European officials. -- Page 44. Rear of palace. -- Page 45. Colonial house and garden. -- Page 46. House. -- Page 47. Waterfront (consulate?). -- Page 48. Shell store. -- Page 49. Garden party. -- Page 50. Waterfront. -- Page 51. Waterfront. -- Page 52. Creek/river. -- Page 53. Wild coastal scene. -- Back cover."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "Winterton, Humphrey (Collector)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Cultural Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "Content on this site is drawn from a broad range of historical sources including materials that may contain offensive images or language reflecting the nature of European colonialism in Africa. Such materials should be viewed in the context of the time and place in which they were created. The images and text in this site are presented as specific, original artifacts recording the attitudes, perspectives and beliefs of a different era. Northwestern University does not endorse the views expressed in this collection which may contain images and text offensive to some researchers."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1905"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Department"
+        ]
+      },
+      "value": {
+        "none": [
+          "Herskovits Library of African Studies"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "23 x 33 cm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "none": [
+          "photograph albums"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Last Modified"
+        ]
+      },
+      "value": {
+        "none": [
+          "2021-12-15T17:48:25.716001Z"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Materials"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 album, 53 pages"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Page 42. Duplicate of Object 63.7, which is captioned \"Mohammadan initiation ceremony - girls, Zanzibar\". -- Page 47. British consulate, Zanzibar. (General Note)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Related URL"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=https://libguides.northwestern.edu/winterton>Research Guide</a></span>",
+          "<span><a href=https://findingaids.library.northwestern.edu/repositories/4/resources/1419>Finding Aid</a></span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Statement"
+        ]
+      },
+      "value": {
+        "none": [
+          "No Copyright - United States"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Scope and Contents"
+        ]
+      },
+      "value": {
+        "none": [
+          "The album includes uncaptioned photographs of German military officers, Zanzibari officials, and local people, both in posed and casual photographs. The photographs depict a variety of social scenes at different locales, including the Sultan's palace. All captions have been supplied for the inventory."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Series"
+        ]
+      },
+      "value": {
+        "none": [
+          "Humphrey Winterton Collection of East African Photographs -- Group 72. Zanzibar, 1905. -- Series 3. Zanzibar, 1905."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "none": [
+          "Tanzania--Zanzibar--Stone Town",
+          "Tanzania--Zanzibar",
+          "Markets",
+          "Camels",
+          "Rivers",
+          "Bridges",
+          "Palms",
+          "Monkeys",
+          "Tanzanians",
+          "Maasai (African people)",
+          "Beaches",
+          "Germans",
+          "Gardens",
+          "Military parades",
+          "Boats and boating",
+          "Zanzibar House of Wonders Museum",
+          "Bats",
+          "Ruined buildings",
+          "Portraits",
+          "Dhows",
+          "Parties",
+          "Kings and rulers",
+          "Armed Forces--Officers",
+          "Harbors",
+          "Adansonia",
+          "Soldiers",
+          "Manners and customs",
+          "Voyages and travels",
+          "Tombs",
+          "Hyenas",
+          "Pack animals (Transportation)",
+          "Swahili-speaking peoples",
+          "Mangrove swamps"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries",
+        "The images on this web site, from material in the collections of the Melville J. Herskovits Library of African Studies of Northwestern University Libraries, are provided for use by its students, faculty and staff, and by other researchers visiting this site, for research consultation and scholarly purposes only. Further distribution and/or any commercial use of the images from this site is not permitted."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/bced17ec-8b41-44f7-801e-ab9f9e3d4e20",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Homepage at Northwestern University Libraries Digital Collections"
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/6f58c85f-f1fc-43c1-be52-678867659ff6?as=iiif",
+      "type": "Collection",
+      "label": {
+        "none": [
+          "The Humphrey Winterton Collection of East African Photographs: 1860-1960"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The collection depicts the breadth of African experience; documents African life; European life in Africa in all its manifestations; and the African landscape, in particular as it changed over time. Included are photographs showing the building of East Africa’s railways, the growth of its urban centers and the development of European colonial administration. There are outstanding examples of portraiture. The collection provides an unsurpassed resource for the study of the history of photography in East Africa. \r\n\r\nCultural Context: Content on this site is drawn from a broad range of historical sources including materials that may contain offensive images or language reflecting the nature of European colonialism in Africa. Such materials should be viewed in the context of the time and place in which they were created. The images and text in this site are presented as specific, original artifacts recording the attitudes, perspectives and beliefs of a different era. Northwestern University does not endorse the views expressed in this collection which may contain images and text offensive to some researchers."
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/0",
+      "type": "Canvas",
+      "height": 5742,
+      "width": 7692,
+      "label": {
+        "none": [
+          "Front cover."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/8271175d-195d-41ec-8c47-ffe57aa57d4d/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/8271175d-195d-41ec-8c47-ffe57aa57d4d",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/0",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/8271175d-195d-41ec-8c47-ffe57aa57d4d/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5742,
+                "width": 7692,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/8271175d-195d-41ec-8c47-ffe57aa57d4d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/1",
+      "type": "Canvas",
+      "height": 5592,
+      "width": 8088,
+      "label": {
+        "none": [
+          "Page 1. Dhows in Zanzibar harbour."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/da91304f-e3be-4309-ab6f-b69247b21919/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/da91304f-e3be-4309-ab6f-b69247b21919",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/da91304f-e3be-4309-ab6f-b69247b21919/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5592,
+                "width": 8088,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/da91304f-e3be-4309-ab6f-b69247b21919",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/2",
+      "type": "Canvas",
+      "height": 5700,
+      "width": 7086,
+      "label": {
+        "none": [
+          "Page 2. Sultan’s Palace. "
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/305b79ac-ce49-4971-8e45-b9b5c0407108/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/305b79ac-ce49-4971-8e45-b9b5c0407108",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/2",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/305b79ac-ce49-4971-8e45-b9b5c0407108/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5700,
+                "width": 7086,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/305b79ac-ce49-4971-8e45-b9b5c0407108",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/3",
+      "type": "Canvas",
+      "height": 5544,
+      "width": 7962,
+      "label": {
+        "none": [
+          "Page 3. Photograph 1. Cove. -- Page 3. Photograph 2. European man seated at a desk. -- Page 3. Photograph 4. African men standing on a beach as others unload a barge behind them. -- Page 3. Photograph 4. Small island."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/100b28b3-212b-4565-84d6-9380cc9d8f43/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/100b28b3-212b-4565-84d6-9380cc9d8f43",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/3",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/100b28b3-212b-4565-84d6-9380cc9d8f43/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5544,
+                "width": 7962,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/100b28b3-212b-4565-84d6-9380cc9d8f43",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/4",
+      "type": "Canvas",
+      "height": 5694,
+      "width": 7080,
+      "label": {
+        "none": [
+          "Page 4. Photograph 1. Two European men seated at a dining table. -- Page 4. Photograph 2. Mangrove. -- Page 4. Photograph 3. Two European, an Indian, and an African man. -- Page 4. Photograph 4. Ships."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/7ece4d31-1608-4731-bc3b-f50692579d2e/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/7ece4d31-1608-4731-bc3b-f50692579d2e",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/4/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/4",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/7ece4d31-1608-4731-bc3b-f50692579d2e/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5694,
+                "width": 7080,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/7ece4d31-1608-4731-bc3b-f50692579d2e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/5",
+      "type": "Canvas",
+      "height": 5544,
+      "width": 7908,
+      "label": {
+        "none": [
+          "Page 5. Photograph 1. Boats on the shore. -- Page 5. Photograph 2. Officers’ meal. -- Page 5. Photograph 3. Waterfront."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/684a0a8f-8638-4c76-b003-e08680f5b802/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/684a0a8f-8638-4c76-b003-e08680f5b802",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/5/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/5",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/684a0a8f-8638-4c76-b003-e08680f5b802/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5544,
+                "width": 7908,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/684a0a8f-8638-4c76-b003-e08680f5b802",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/6",
+      "type": "Canvas",
+      "height": 5682,
+      "width": 7056,
+      "label": {
+        "none": [
+          "Page 6. Photograph 1. Garden. -- Page 6. Photograph 2. Palm trees. -- Page 6. Photograph 3. Train. -- Page 6. Photograph 4. Creek."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/9eb29012-1b66-43c2-9ecc-39ca15432f77/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/9eb29012-1b66-43c2-9ecc-39ca15432f77",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/6/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/6",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/9eb29012-1b66-43c2-9ecc-39ca15432f77/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5682,
+                "width": 7056,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/9eb29012-1b66-43c2-9ecc-39ca15432f77",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/7",
+      "type": "Canvas",
+      "height": 5544,
+      "width": 7950,
+      "label": {
+        "none": [
+          "Page 7. Photograph 1. Officers on the beach. -- Page 7. Photograph 2. Arab woman wearing face mask. -- Page 7. Photograph 3. On deck."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/1063eb7e-94fd-4844-b4d1-d224e52d0bb3/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/1063eb7e-94fd-4844-b4d1-d224e52d0bb3",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/7/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/7",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/1063eb7e-94fd-4844-b4d1-d224e52d0bb3/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5544,
+                "width": 7950,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/1063eb7e-94fd-4844-b4d1-d224e52d0bb3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/8",
+      "type": "Canvas",
+      "height": 5670,
+      "width": 7122,
+      "label": {
+        "none": [
+          "Page 8. Photograph 1. Two Swahili girls. -- Page 8. Photograph 2. Tea party. -- Page 8. Photograph 3. Garden."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/315a9df0-105e-45b4-a969-16bc304cb263/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/315a9df0-105e-45b4-a969-16bc304cb263",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/8/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/8",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/315a9df0-105e-45b4-a969-16bc304cb263/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5670,
+                "width": 7122,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/315a9df0-105e-45b4-a969-16bc304cb263",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/9",
+      "type": "Canvas",
+      "height": 5544,
+      "width": 7548,
+      "label": {
+        "none": [
+          "Page 9. Photograph 1. Huts. -- Page 9. Photograph 2. Sultan’s Palace. -- Page 9. Photograph 3. Shore. -- Page 9. Photograph 4. Colonial house."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/055953b4-ed02-4ce4-aba6-914b0487deac/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/055953b4-ed02-4ce4-aba6-914b0487deac",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/9/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/9",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/055953b4-ed02-4ce4-aba6-914b0487deac/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5544,
+                "width": 7548,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/055953b4-ed02-4ce4-aba6-914b0487deac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/10",
+      "type": "Canvas",
+      "height": 5640,
+      "width": 7116,
+      "label": {
+        "none": [
+          "Page 10. Photograph 1. Rooftops. -- Page 10. Photograph 2. Officer on wall. -- Page 10. Photograph 3. Mangrove. -- Page 10. Photograph 4. Street in native quarter. "
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/72bf2e9c-497d-4c72-b7a3-db8f5910215c/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/72bf2e9c-497d-4c72-b7a3-db8f5910215c",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/10/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/10",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/72bf2e9c-497d-4c72-b7a3-db8f5910215c/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5640,
+                "width": 7116,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/72bf2e9c-497d-4c72-b7a3-db8f5910215c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/11",
+      "type": "Canvas",
+      "height": 5586,
+      "width": 7776,
+      "label": {
+        "none": [
+          "Page 11. Photograph 1. European man. -- Page 11. Photograph 2. Swahili woman. -- Page 11. Photograph 3. Zanzibari man with bat. "
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/74fb361d-c011-4598-8a7b-3c62fc92cbfa/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/74fb361d-c011-4598-8a7b-3c62fc92cbfa",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/11/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/11",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/74fb361d-c011-4598-8a7b-3c62fc92cbfa/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5586,
+                "width": 7776,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/74fb361d-c011-4598-8a7b-3c62fc92cbfa",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/12",
+      "type": "Canvas",
+      "height": 5656,
+      "width": 7128,
+      "label": {
+        "none": [
+          "Page 12. Photograph 1. Boy with club. -- Page 12. Photograph 2. Traveller’s palm. -- Page 12. Photograph 3. Monkey. -- Page 12. Photograph 4. On deck. -- Page 12. Photograph 5. Camels."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4988082-4be7-4a51-8df7-1d45b4237637/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4988082-4be7-4a51-8df7-1d45b4237637",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/12/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/12",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4988082-4be7-4a51-8df7-1d45b4237637/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5656,
+                "width": 7128,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4988082-4be7-4a51-8df7-1d45b4237637",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/13",
+      "type": "Canvas",
+      "height": 5616,
+      "width": 7702,
+      "label": {
+        "none": [
+          "Page 13. Photograph 1. Swamp. -- Page 13. Photograph 2. Palm tree. -- Page 13. Photograph 3. Small island. -- Page 13. Photograph 4. Gathering at landing place."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a46d8d60-e37e-4aa4-8b70-b06b5c354cd4/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a46d8d60-e37e-4aa4-8b70-b06b5c354cd4",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/13/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/13",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a46d8d60-e37e-4aa4-8b70-b06b5c354cd4/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5616,
+                "width": 7702,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a46d8d60-e37e-4aa4-8b70-b06b5c354cd4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/14",
+      "type": "Canvas",
+      "height": 5634,
+      "width": 7146,
+      "label": {
+        "none": [
+          "Page 14. Four Masai warriors."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a5a72966-c123-4829-b94a-d7812e38ed3a/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a5a72966-c123-4829-b94a-d7812e38ed3a",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/14/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/14/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/14",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a5a72966-c123-4829-b94a-d7812e38ed3a/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5634,
+                "width": 7146,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a5a72966-c123-4829-b94a-d7812e38ed3a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/15",
+      "type": "Canvas",
+      "height": 5552,
+      "width": 7696,
+      "label": {
+        "none": [
+          "Page 15. Photograph 1. Ruined building with graveyard. -- Page 15. Photograph 2. European man. -- Page 15. Photograph 3. Zanzibari women carrying tins on heads ; Title from inventory: Zanzibari woman carrying tins on heads. -- Page 15. Photograph 4. Coastal view."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f34698bf-9fb7-4d60-ac8b-d0cdc0893c05/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f34698bf-9fb7-4d60-ac8b-d0cdc0893c05",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/15/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/15/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/15",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f34698bf-9fb7-4d60-ac8b-d0cdc0893c05/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5552,
+                "width": 7696,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f34698bf-9fb7-4d60-ac8b-d0cdc0893c05",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/16",
+      "type": "Canvas",
+      "height": 5656,
+      "width": 7180,
+      "label": {
+        "none": [
+          "Page 16. Photograph 1. Exotic plant. -- Page 16. Photograph 2. Four officers on coral outcrop. -- Page 16. Photograph 3. Palm grove."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/9f3a4b3f-9786-4c06-92e7-fc0920a803df/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/9f3a4b3f-9786-4c06-92e7-fc0920a803df",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/16/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/16/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/16",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/9f3a4b3f-9786-4c06-92e7-fc0920a803df/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5656,
+                "width": 7180,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/9f3a4b3f-9786-4c06-92e7-fc0920a803df",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/17",
+      "type": "Canvas",
+      "height": 5584,
+      "width": 7396,
+      "label": {
+        "none": [
+          "Page 17. Photograph 1. Native women hair dressing. -- Page 17. Photograph 2. Drying cloves. -- Page 17. Photograph 3. Soldiers marching."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/ca2436f3-9ec3-43f2-89e5-c2b8335358c4/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/ca2436f3-9ec3-43f2-89e5-c2b8335358c4",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/17/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/17/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/17",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/ca2436f3-9ec3-43f2-89e5-c2b8335358c4/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5584,
+                "width": 7396,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/ca2436f3-9ec3-43f2-89e5-c2b8335358c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/18",
+      "type": "Canvas",
+      "height": 5634,
+      "width": 7206,
+      "label": {
+        "none": [
+          "Page 18. Photograph 1. Zanzibari woman of high rank. -- Page 18. Photograph 2. Donkeys on beach. -- Page 18. Photograph 3. Graveyard. -- Page 18. Photograph 4. Wooden carousel."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/26c6e215-2800-444f-b2d6-a96087c24654/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/26c6e215-2800-444f-b2d6-a96087c24654",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/18/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/18/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/18",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/26c6e215-2800-444f-b2d6-a96087c24654/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5634,
+                "width": 7206,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/26c6e215-2800-444f-b2d6-a96087c24654",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/19",
+      "type": "Canvas",
+      "height": 5574,
+      "width": 7350,
+      "label": {
+        "none": [
+          "Page 19. Photograph 1. Young native woman. -- Page 19. Photograph 2. Tower. -- Page 19. Photograph 3. Street scene."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/0cf8a189-80d9-491c-9e75-cf437a7cf6ac/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/0cf8a189-80d9-491c-9e75-cf437a7cf6ac",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/19/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/19/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/19",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/0cf8a189-80d9-491c-9e75-cf437a7cf6ac/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5574,
+                "width": 7350,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/0cf8a189-80d9-491c-9e75-cf437a7cf6ac",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/20",
+      "type": "Canvas",
+      "height": 5628,
+      "width": 7170,
+      "label": {
+        "none": [
+          "Page 20. Photograph 1. Palm and hut. -- Page 20. Photograph 2. Native woman, baby strapped on back."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/dc62b831-f4b7-4b9e-a4ed-157bc15f0f78/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/dc62b831-f4b7-4b9e-a4ed-157bc15f0f78",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/20/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/20/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/20",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/dc62b831-f4b7-4b9e-a4ed-157bc15f0f78/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5628,
+                "width": 7170,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/dc62b831-f4b7-4b9e-a4ed-157bc15f0f78",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/21",
+      "type": "Canvas",
+      "height": 5584,
+      "width": 7366,
+      "label": {
+        "none": [
+          "Page 21. Photograph 1. Metal workers. -- Page 21. Photograph 2. Creek. -- Page 21. Photograph 3. Boats in harbour. -- Page 21. Photograph 4. Street market."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4d40fec-f900-4551-9b65-8d158f5ee2c3/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4d40fec-f900-4551-9b65-8d158f5ee2c3",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/21/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/21/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/21",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4d40fec-f900-4551-9b65-8d158f5ee2c3/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5584,
+                "width": 7366,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a4d40fec-f900-4551-9b65-8d158f5ee2c3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/22",
+      "type": "Canvas",
+      "height": 5622,
+      "width": 7278,
+      "label": {
+        "none": [
+          "Page 22. Colonial building."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f5ca8205-a6fe-458c-a1c7-9b6368577848/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f5ca8205-a6fe-458c-a1c7-9b6368577848",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/22/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/22/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/22",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f5ca8205-a6fe-458c-a1c7-9b6368577848/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5622,
+                "width": 7278,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f5ca8205-a6fe-458c-a1c7-9b6368577848",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/23",
+      "type": "Canvas",
+      "height": 5586,
+      "width": 7392,
+      "label": {
+        "none": [
+          "Page 23. Consulate."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/cb5ceb05-6393-44ba-8b6a-5d2c39787f3b/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/cb5ceb05-6393-44ba-8b6a-5d2c39787f3b",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/23/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/23/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/23",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/cb5ceb05-6393-44ba-8b6a-5d2c39787f3b/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5586,
+                "width": 7392,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/cb5ceb05-6393-44ba-8b6a-5d2c39787f3b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/24",
+      "type": "Canvas",
+      "height": 5586,
+      "width": 7344,
+      "label": {
+        "none": [
+          "Page 24. Tree lined road."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/43a371e3-3c4c-40fd-9e06-2525cfae0e4e/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/43a371e3-3c4c-40fd-9e06-2525cfae0e4e",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/24/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/24/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/24",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/43a371e3-3c4c-40fd-9e06-2525cfae0e4e/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5586,
+                "width": 7344,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/43a371e3-3c4c-40fd-9e06-2525cfae0e4e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/25",
+      "type": "Canvas",
+      "height": 5616,
+      "width": 7392,
+      "label": {
+        "none": [
+          "Page 25. Steam ships."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f473a356-0a1b-4e5c-9270-7d1e9aa9832a/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f473a356-0a1b-4e5c-9270-7d1e9aa9832a",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/25/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/25/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/25",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f473a356-0a1b-4e5c-9270-7d1e9aa9832a/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5616,
+                "width": 7392,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f473a356-0a1b-4e5c-9270-7d1e9aa9832a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/26",
+      "type": "Canvas",
+      "height": 5568,
+      "width": 7584,
+      "label": {
+        "none": [
+          "Page 26. Photograph 1. River. -- Page 26. Photograph 2. Tree."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/89bf8d15-42f7-4873-8eb7-df932562cf2b/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/89bf8d15-42f7-4873-8eb7-df932562cf2b",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/26/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/26/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/26",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/89bf8d15-42f7-4873-8eb7-df932562cf2b/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5568,
+                "width": 7584,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/89bf8d15-42f7-4873-8eb7-df932562cf2b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/27",
+      "type": "Canvas",
+      "height": 5640,
+      "width": 7458,
+      "label": {
+        "none": [
+          "Page 27. Photograph 1. Road. -- Page 27. Photograph 2. Three women sitting, washing on river bank."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/b4e22f20-0339-4d78-a52a-da27a2966ebd/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/b4e22f20-0339-4d78-a52a-da27a2966ebd",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/27/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/27/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/27",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/b4e22f20-0339-4d78-a52a-da27a2966ebd/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5640,
+                "width": 7458,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/b4e22f20-0339-4d78-a52a-da27a2966ebd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/28",
+      "type": "Canvas",
+      "height": 5598,
+      "width": 7596,
+      "label": {
+        "none": [
+          "Page 28. Baobab tree ; Title from inventory: Boabab tree."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/92c85cee-1710-4413-bb60-54b4009a5ed9/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/92c85cee-1710-4413-bb60-54b4009a5ed9",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/28/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/28/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/28",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/92c85cee-1710-4413-bb60-54b4009a5ed9/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5598,
+                "width": 7596,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/92c85cee-1710-4413-bb60-54b4009a5ed9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/29",
+      "type": "Canvas",
+      "height": 5610,
+      "width": 7350,
+      "label": {
+        "none": [
+          "Page 29. Photograph 1. Carousel. -- Page 29. Photograph 2. People strolling."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/c3ecc713-db14-4a8e-8fae-cc9979283eae/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/c3ecc713-db14-4a8e-8fae-cc9979283eae",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/29/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/29/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/29",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/c3ecc713-db14-4a8e-8fae-cc9979283eae/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5610,
+                "width": 7350,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/c3ecc713-db14-4a8e-8fae-cc9979283eae",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/30",
+      "type": "Canvas",
+      "height": 5580,
+      "width": 7506,
+      "label": {
+        "none": [
+          "Page 30. Social evening."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/be4d62b4-feef-4296-a379-62efbc8f3a12/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/be4d62b4-feef-4296-a379-62efbc8f3a12",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/30/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/30/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/30",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/be4d62b4-feef-4296-a379-62efbc8f3a12/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5580,
+                "width": 7506,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/be4d62b4-feef-4296-a379-62efbc8f3a12",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/31",
+      "type": "Canvas",
+      "height": 5598,
+      "width": 7272,
+      "label": {
+        "none": [
+          "Page 31. Three native musicians."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/ff5ac3e0-c889-4900-859d-05a013e76ff8/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/ff5ac3e0-c889-4900-859d-05a013e76ff8",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/31/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/31/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/31",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/ff5ac3e0-c889-4900-859d-05a013e76ff8/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5598,
+                "width": 7272,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/ff5ac3e0-c889-4900-859d-05a013e76ff8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/32",
+      "type": "Canvas",
+      "height": 5564,
+      "width": 7588,
+      "label": {
+        "none": [
+          "Page 32. High ranking, young native woman."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a1b435b8-22f7-455b-a917-bba76ccc978f/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a1b435b8-22f7-455b-a917-bba76ccc978f",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/32/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/32/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/32",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a1b435b8-22f7-455b-a917-bba76ccc978f/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5564,
+                "width": 7588,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a1b435b8-22f7-455b-a917-bba76ccc978f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/33",
+      "type": "Canvas",
+      "height": 5628,
+      "width": 7242,
+      "label": {
+        "none": [
+          "Page 33. Photograph 1. Colonial building, shelters from sun in foreground. -- Page 33. Photograph 2. Construction site."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e7b4a540-d8f5-4b4c-9d6e-ff8275c667c5/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e7b4a540-d8f5-4b4c-9d6e-ff8275c667c5",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/33/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/33/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/33",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e7b4a540-d8f5-4b4c-9d6e-ff8275c667c5/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5628,
+                "width": 7242,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e7b4a540-d8f5-4b4c-9d6e-ff8275c667c5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/34",
+      "type": "Canvas",
+      "height": 5568,
+      "width": 7728,
+      "label": {
+        "none": [
+          "Page 34. Avenue."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/9934c98a-cf95-44bf-9583-f818006c1ca2/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/9934c98a-cf95-44bf-9583-f818006c1ca2",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/34/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/34/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/34",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/9934c98a-cf95-44bf-9583-f818006c1ca2/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5568,
+                "width": 7728,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/9934c98a-cf95-44bf-9583-f818006c1ca2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/35",
+      "type": "Canvas",
+      "height": 5646,
+      "width": 7392,
+      "label": {
+        "none": [
+          "Page 35. Photograph 1. Drinks party. -- Page 35. Photograph 2. Bridge."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/ac42ff69-7c94-4acf-a41f-d37422bd97d8/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/ac42ff69-7c94-4acf-a41f-d37422bd97d8",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/35/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/35/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/35",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/ac42ff69-7c94-4acf-a41f-d37422bd97d8/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5646,
+                "width": 7392,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/ac42ff69-7c94-4acf-a41f-d37422bd97d8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/36",
+      "type": "Canvas",
+      "height": 5580,
+      "width": 7716,
+      "label": {
+        "none": [
+          "Page 36. Military inspection / guard of honour."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e0051293-1570-40a6-b6c8-cb69713157e6/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e0051293-1570-40a6-b6c8-cb69713157e6",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/36/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/36/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/36",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e0051293-1570-40a6-b6c8-cb69713157e6/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5580,
+                "width": 7716,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e0051293-1570-40a6-b6c8-cb69713157e6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/37",
+      "type": "Canvas",
+      "height": 5646,
+      "width": 7242,
+      "label": {
+        "none": [
+          "Page 37. Wild coastal view."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/50f09975-3f15-458d-bd2c-3f75065b4e6e/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/50f09975-3f15-458d-bd2c-3f75065b4e6e",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/37/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/37/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/37",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/50f09975-3f15-458d-bd2c-3f75065b4e6e/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5646,
+                "width": 7242,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/50f09975-3f15-458d-bd2c-3f75065b4e6e",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/38",
+      "type": "Canvas",
+      "height": 5622,
+      "width": 7530,
+      "label": {
+        "none": [
+          "Page 38. Sultan and other Zanzibari officials walking past cannon."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/d608f877-bf19-4459-b24c-83deebe8d406/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/d608f877-bf19-4459-b24c-83deebe8d406",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/38/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/38/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/38",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/d608f877-bf19-4459-b24c-83deebe8d406/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5622,
+                "width": 7530,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/d608f877-bf19-4459-b24c-83deebe8d406",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/39",
+      "type": "Canvas",
+      "height": 5670,
+      "width": 7272,
+      "label": {
+        "none": [
+          "Page 39. Parade past the Sultan’s Palace."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/d0ebe50a-9f69-4df4-aab9-1ff59c1c5070/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/d0ebe50a-9f69-4df4-aab9-1ff59c1c5070",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/39/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/39/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/39",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/d0ebe50a-9f69-4df4-aab9-1ff59c1c5070/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5670,
+                "width": 7272,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/d0ebe50a-9f69-4df4-aab9-1ff59c1c5070",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/40",
+      "type": "Canvas",
+      "height": 5616,
+      "width": 7782,
+      "label": {
+        "none": [
+          "Page 40. Waterfront."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/b577b850-e0eb-4fa7-9731-7c52694ff971/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/b577b850-e0eb-4fa7-9731-7c52694ff971",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/40/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/40/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/40",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/b577b850-e0eb-4fa7-9731-7c52694ff971/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5616,
+                "width": 7782,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/b577b850-e0eb-4fa7-9731-7c52694ff971",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/41",
+      "type": "Canvas",
+      "height": 5664,
+      "width": 7308,
+      "label": {
+        "none": [
+          "Page 41. Garden party. "
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f15f6906-831d-47e3-985d-419309625aa2/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f15f6906-831d-47e3-985d-419309625aa2",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/41/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/41/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/41",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/f15f6906-831d-47e3-985d-419309625aa2/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5664,
+                "width": 7308,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/f15f6906-831d-47e3-985d-419309625aa2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/42",
+      "type": "Canvas",
+      "height": 5574,
+      "width": 7812,
+      "label": {
+        "none": [
+          "Page 42. Garden party."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/3262fc6a-7941-4345-a999-87ddda879d4f/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/3262fc6a-7941-4345-a999-87ddda879d4f",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/42/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/42/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/42",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/3262fc6a-7941-4345-a999-87ddda879d4f/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5574,
+                "width": 7812,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/3262fc6a-7941-4345-a999-87ddda879d4f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/43",
+      "type": "Canvas",
+      "height": 5670,
+      "width": 7230,
+      "label": {
+        "none": [
+          "Page 43. Procession, European officials. "
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/5753ecf5-f9d8-4b56-9af1-1d67e23b8497/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/5753ecf5-f9d8-4b56-9af1-1d67e23b8497",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/43/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/43/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/43",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/5753ecf5-f9d8-4b56-9af1-1d67e23b8497/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5670,
+                "width": 7230,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/5753ecf5-f9d8-4b56-9af1-1d67e23b8497",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/44",
+      "type": "Canvas",
+      "height": 5584,
+      "width": 7879,
+      "label": {
+        "none": [
+          "Page 44. Rear of palace."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/59c66adb-f42b-4d96-8998-619f087a8ad7/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/59c66adb-f42b-4d96-8998-619f087a8ad7",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/44/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/44/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/44",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/59c66adb-f42b-4d96-8998-619f087a8ad7/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5584,
+                "width": 7879,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/59c66adb-f42b-4d96-8998-619f087a8ad7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/45",
+      "type": "Canvas",
+      "height": 5712,
+      "width": 7214,
+      "label": {
+        "none": [
+          "Page 45. Colonial house and garden."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/dbfd2e15-9548-40a6-9dec-b9a3b2528c1a/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/dbfd2e15-9548-40a6-9dec-b9a3b2528c1a",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/45/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/45/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/45",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/dbfd2e15-9548-40a6-9dec-b9a3b2528c1a/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5712,
+                "width": 7214,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/dbfd2e15-9548-40a6-9dec-b9a3b2528c1a",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/46",
+      "type": "Canvas",
+      "height": 5598,
+      "width": 7836,
+      "label": {
+        "none": [
+          "Page 46. House."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a2f8de31-f01e-4805-93ad-3f82d61db6a9/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a2f8de31-f01e-4805-93ad-3f82d61db6a9",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/46/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/46/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/46",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/a2f8de31-f01e-4805-93ad-3f82d61db6a9/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5598,
+                "width": 7836,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/a2f8de31-f01e-4805-93ad-3f82d61db6a9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/47",
+      "type": "Canvas",
+      "height": 5706,
+      "width": 7182,
+      "label": {
+        "none": [
+          "Page 47. Waterfront (consulate?)."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e02cd7b5-760d-41c8-8a93-0ed272f769c4/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e02cd7b5-760d-41c8-8a93-0ed272f769c4",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/47/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/47/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/47",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e02cd7b5-760d-41c8-8a93-0ed272f769c4/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5706,
+                "width": 7182,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e02cd7b5-760d-41c8-8a93-0ed272f769c4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/48",
+      "type": "Canvas",
+      "height": 5604,
+      "width": 7794,
+      "label": {
+        "none": [
+          "Page 48. Shell store."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e3f928a2-32be-46d1-b973-89d9f0100b6f/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e3f928a2-32be-46d1-b973-89d9f0100b6f",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/48/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/48/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/48",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/e3f928a2-32be-46d1-b973-89d9f0100b6f/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5604,
+                "width": 7794,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/e3f928a2-32be-46d1-b973-89d9f0100b6f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/49",
+      "type": "Canvas",
+      "height": 5664,
+      "width": 7146,
+      "label": {
+        "none": [
+          "Page 49. Garden party."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/60c5fce4-1920-4a98-bd7f-de5d3e2eec90/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/60c5fce4-1920-4a98-bd7f-de5d3e2eec90",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/49/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/49/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/49",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/60c5fce4-1920-4a98-bd7f-de5d3e2eec90/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5664,
+                "width": 7146,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/60c5fce4-1920-4a98-bd7f-de5d3e2eec90",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/50",
+      "type": "Canvas",
+      "height": 5646,
+      "width": 7818,
+      "label": {
+        "none": [
+          "Page 50. Waterfront."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/0e163d4e-c95c-42d2-82fc-197c958743a3/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/0e163d4e-c95c-42d2-82fc-197c958743a3",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/50/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/50/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/50",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/0e163d4e-c95c-42d2-82fc-197c958743a3/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5646,
+                "width": 7818,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/0e163d4e-c95c-42d2-82fc-197c958743a3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/51",
+      "type": "Canvas",
+      "height": 5700,
+      "width": 7170,
+      "label": {
+        "none": [
+          "Page 51. Waterfront."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/868652cb-26b3-4022-88c9-5526a0ecf04f/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/868652cb-26b3-4022-88c9-5526a0ecf04f",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/51/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/51/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/51",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/868652cb-26b3-4022-88c9-5526a0ecf04f/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5700,
+                "width": 7170,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/868652cb-26b3-4022-88c9-5526a0ecf04f",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/52",
+      "type": "Canvas",
+      "height": 5544,
+      "width": 7854,
+      "label": {
+        "none": [
+          "Page 52. Creek/river. "
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/8c393d57-162a-4260-9528-6bf9d77a6fa0/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/8c393d57-162a-4260-9528-6bf9d77a6fa0",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/52/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/52/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/52",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/8c393d57-162a-4260-9528-6bf9d77a6fa0/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5544,
+                "width": 7854,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/8c393d57-162a-4260-9528-6bf9d77a6fa0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/53",
+      "type": "Canvas",
+      "height": 5718,
+      "width": 7224,
+      "label": {
+        "none": [
+          "Page 53. Wild coastal scene."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/c424adf3-aab4-4cbc-a754-747423d4a0d6/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/c424adf3-aab4-4cbc-a754-747423d4a0d6",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/53/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/53/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/53",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/c424adf3-aab4-4cbc-a754-747423d4a0d6/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5718,
+                "width": 7224,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/c424adf3-aab4-4cbc-a754-747423d4a0d6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/54",
+      "type": "Canvas",
+      "height": 5724,
+      "width": 7638,
+      "label": {
+        "none": [
+          "Back cover."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/5acff050-2812-45e0-a590-becf31a108c9/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/5acff050-2812-45e0-a590-becf31a108c9",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/54/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/54/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/bced17ec-8b41-44f7-801e-ab9f9e3d4e20?as=iiif/canvas/access/54",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/5acff050-2812-45e0-a590-becf31a108c9/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 5724,
+                "width": 7638,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/5acff050-2812-45e0-a590-becf31a108c9",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
