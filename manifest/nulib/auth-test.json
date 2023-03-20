@@ -252,6 +252,23 @@
               "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/1663653f-af8c-4a58-9e57-19b389e07501",
               "@type": "ImageService2",
               "profile": "http://iiif.io/api/image/2/level2.json"
+            },
+            {
+              "@context": "http://iiif.io/api/auth/1/context.json",
+              "@id": "https://authentication.example.org/login",
+              "profile": "http://iiif.io/api/auth/1/login",
+              "label": "Login to Example Institution",
+              "service" : [
+                {
+                  "@id": "https://authentication.example.org/token",
+                  "profile": "http://iiif.io/api/auth/1/token"
+                },
+                {
+                  "@id": "https://authentication.example.org/logout",
+                  "profile": "http://iiif.io/api/auth/1/logout",
+                  "label": "Logout from Example Institution"
+                }
+              ]
             }
           ]
         }
@@ -285,22 +302,5 @@
         }
       ]
     }
-  ],
-  "service" : {
-    "@context": "http://iiif.io/api/auth/1/context.json",
-    "@id": "https://authentication.example.org/login",
-    "profile": "http://iiif.io/api/auth/1/login",
-    "label": "Login to Example Institution",
-    "service" : [
-      {
-        "@id": "https://authentication.example.org/token",
-        "profile": "http://iiif.io/api/auth/1/token"
-      },
-      {
-        "@id": "https://authentication.example.org/logout",
-        "profile": "http://iiif.io/api/auth/1/logout",
-        "label": "Logout from Example Institution"
-      }
-    ]
-  }
+  ]
 }
