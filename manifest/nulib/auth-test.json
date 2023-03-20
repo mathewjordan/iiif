@@ -1,0 +1,289 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066?as=iiif",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Correspondence from James L. McHard to John Cage"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "Cage, John (Correspondent)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "April 1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Department"
+        ]
+      },
+      "value": {
+        "none": [
+          "Music Library"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "11 x 8.5 in"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "none": [
+          "correspondence"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Last Modified"
+        ]
+      },
+      "value": {
+        "none": [
+          "2022-03-30T19:45:55.632017Z"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language"
+        ]
+      },
+      "value": {
+        "none": [
+          "English"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Provenance"
+        ]
+      },
+      "value": {
+        "none": [
+          "Materials received from John Cage and the John Cage Trust in several donations during the 1970s-1990s."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Related URL"
+        ]
+      },
+      "value": {
+        "none": [
+          "<span><a href=http://findingaids.library.northwestern.edu/repositories/3/resources/1237>Finding Aid</a></span>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Statement"
+        ]
+      },
+      "value": {
+        "none": [
+          "In Copyright"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Scope and Contents"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Cage Correspondence collection is comprised of correspondence and ephemera including letters, cards, clippings, catalogs, photographs, negatives, cassette tapes, music scores, and art. Early materials focus on family correspondence and newspaper clippings and are interspersed with Cage's own notes and manuscripts. Later correspondence is enhanced through Cage's use of \"Note-o-Grams\" which provides carbon copies of his sent messages."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Series"
+        ]
+      },
+      "value": {
+        "none": [
+          "John Cage correspondence -- Correspondence, 1901-1993 -- Apr. 22-30, 1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "none": [
+          "Cage, John",
+          "Composers--United States--Correspondence"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries",
+        "The images on this web site are from material in the collections of the Music Library of Northwestern University Libraries, are provided for use by its students, faculty and staff, and by other researchers visiting this site, for research consultation and scholarly purposes only. Further distribution and/or any commercial use of the images from this site is not permitted."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/6fa508d1-461e-490e-9a47-4e6d89b9d066",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Homepage at Northwestern University Libraries Digital Collections"
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/65f5fd1a-4679-4d0e-8a27-17e2a746b4c6?as=iiif",
+      "type": "Collection",
+      "label": {
+        "none": [
+          "John Cage Correspondence"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Cage Correspondence collection is comprised of correspondence and ephemera including letters, cards, clippings, catalogs, photographs, negatives, cassette tapes, music scores, and art.  Early materials focus on family correspondence and newspaper clippings and are interspersed with Cage's own notes and manuscripts.  Later correspondence is enhanced through Cage's use of \"Note-o-Grams\" which provides carbon copies of his sent messages"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066?as=iiif/canvas/access/0",
+      "type": "Canvas",
+      "height": 3351,
+      "width": 2595,
+      "label": {
+        "none": [
+          "Recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/1663653f-af8c-4a58-9e57-19b389e07501/full/!300,300/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 300,
+          "width": 300,
+          "service": [
+            {
+              "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/1663653f-af8c-4a58-9e57-19b389e07501",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level2.json"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066?as=iiif/canvas/access/0/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066?as=iiif/canvas/access/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066?as=iiif/canvas/access/0",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/2/1663653f-af8c-4a58-9e57-19b389e07501/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/tiff",
+                "height": 3351,
+                "width": 2595,
+                "service": [
+                  {
+                    "@id": "https://iiif.dc.library.northwestern.edu/iiif/2/1663653f-af8c-4a58-9e57-19b389e07501",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
