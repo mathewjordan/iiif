@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://api.dc.library.northwestern.edu/api/v2/works/6fa508d1-461e-490e-9a47-4e6d89b9d066?as=iiif",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/nulib/auth-test.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -285,5 +285,22 @@
         }
       ]
     }
-  ]
+  ],
+  "service" : {
+    "@context": "http://iiif.io/api/auth/1/context.json",
+    "@id": "https://authentication.example.org/login",
+    "profile": "http://iiif.io/api/auth/1/login",
+    "label": "Login to Example Institution",
+    "service" : [
+      {
+        "@id": "https://authentication.example.org/token",
+        "profile": "http://iiif.io/api/auth/1/token"
+      },
+      {
+        "@id": "https://authentication.example.org/logout",
+        "profile": "http://iiif.io/api/auth/1/logout",
+        "label": "Logout from Example Institution"
+      }
+    ]
+  }
 }
