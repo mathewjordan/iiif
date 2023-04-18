@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/collection/birds",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/collection/chatgpt-birds.json",
   "type": "Collection",
   "label": {
     "en": ["Birds Collection"]
