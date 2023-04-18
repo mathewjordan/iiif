@@ -1,0 +1,80 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/collection/birds",
+  "type": "Collection",
+  "label": {
+    "en": ["Birds Collection"]
+  },
+  "items": [
+    {
+      "id": "https://api.nb.no/catalog/v1/iiif/URN:NBN:no-nb_digifoto_10071733/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Birds and Flowers"]
+      }
+    },
+    {
+      "id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2003-04-01/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Mockingbird"]
+      }
+    },
+    {
+      "id": "https://digital.library.ucla.edu/catalog/ark:/21198/zz002j6w2w/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Birds of America"]
+      }
+    },
+    {
+      "id": "https://iiif.library.utoronto.ca/presentation/v2/manuscripts/001/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Treatise on Birds"]
+      }
+    },
+    {
+      "id": "https://iiif.harvardartmuseums.org/manifests/object/212572",
+      "type": "Manifest",
+      "label": {
+        "en": ["Birds by the Sea"]
+      }
+    },
+    {
+      "id": "https://iiif.lib.uchicago.edu/ark:/61001/b2959v383/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Birds and Flowers of the Four Seasons"]
+      }
+    },
+    {
+      "id": "https://library.artstor.org/asset/SS7731420_7731420_10873421/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Birds in a Park"]
+      }
+    },
+    {
+      "id": "https://library.artstor.org/asset/SS7731420_7731420_11106015/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Ducks and other Birds near a Pool"]
+      }
+    },
+    {
+      "id": "https://library.artstor.org/asset/SS7731420_7731420_11102563/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Exotic Birds in a Landscape"]
+      }
+    },
+    {
+      "id": "https://library.artstor.org/asset/SS7731420_7731420_11117649/manifest",
+      "type": "Manifest",
+      "label": {
+        "en": ["Game Birds"]
+      }
+    }
+  ]
+}
