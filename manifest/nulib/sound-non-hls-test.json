@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625?as=iiif",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/nulib/sound-non-hls-test.json",
   "type": "Manifest",
   "label": {
     "none": [
