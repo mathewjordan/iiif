@@ -1,0 +1,211 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/nulib/sound-non-hls-test-single.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Concerto in D Major, TWV 43:D7 for trumpet, two oboes, continuo"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "Butler, Barbara (Contributor)",
+          "Henoch, Michael (Contributor)",
+          "Bach, Anne (Contributor)",
+          "Balderston, Stephen (Contributor)",
+          "Michel, Dennis (Contributor)",
+          "Moy, Jason (Contributor)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Telemann, Georg Philipp"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "November 9, 2009"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Department"
+        ]
+      },
+      "value": {
+        "none": [
+          "Music Library"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Last Modified"
+        ]
+      },
+      "value": {
+        "none": [
+          "2022-02-07T17:45:26.225202Z"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Barbara Butler, trumpet; Michael Henoch, oboe; Anne Bach, oboe; Stephen Balderston, cello; Dennis Michel, bassoon; Jason Moy, harpsichord (Performers)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Statement"
+        ]
+      },
+      "value": {
+        "none": [
+          "In Copyright - Educational Use Permitted"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago Chamber Musicians",
+          "Chamber music groups"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries",
+        "The audio recordings on this web site are from material in the collections of the Music Library of Northwestern University Libraries, are provided for use by its students, faculty and staff, and by other researchers visiting this site, for research consultation and scholarly purposes only. Further distribution and/or any commercial use of the audio recordings from this site is not permitted."
+      ]
+    }
+  },
+  "rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/ad328325-512e-4bd5-83c2-350ef9f8b625",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Homepage at Northwestern University Libraries Digital Collections"
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/2933302a-a629-4e3b-81ed-db7a54b33a8c?as=iiif",
+      "type": "Collection",
+      "label": {
+        "none": [
+          "Chicago Chamber Musicians Archive, 1989-2010"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Audio recordings of Chicago Chamber Musicians concerts and performances. "
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625?as=iiif/canvas/access/3",
+      "type": "Canvas",
+      "height": 100,
+      "width": 100,
+      "duration": 1985.024,
+      "label": {
+        "none": [
+          "Vivace"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625?as=iiif/canvas/access/3/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625?as=iiif/canvas/access/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://api.dc.library.northwestern.edu/api/v2/works/ad328325-512e-4bd5-83c2-350ef9f8b625?as=iiif/canvas/access/3",
+              "body": {
+                "id": "https://fixtures.iiif.io/audio/indiana/mahler-symphony-3/CD1/medium/128Kbps.mp4",
+                "type": "Sound",
+                "format": "audio/mp4",
+                "duration": 1985.024
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
