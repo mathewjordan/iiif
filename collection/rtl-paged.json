@@ -8,7 +8,7 @@
     ]
   },
   "behavior": [ "paged" ],
-  "viewingDirection": "left-to-right",
+  "viewingDirection": "right-to-left",
   "metadata": [
     {
       "label": {
