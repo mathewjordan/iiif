@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/rtl-paged.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/nulib/rtl-paged.json",
   "type": "Manifest",
   "label": {
     "none": [
