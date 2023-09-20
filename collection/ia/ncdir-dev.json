@@ -1,0 +1,529 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/collection/ia/ncdir-dev.json",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "North Carolina Directories"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "identifier"
+        ]
+      },
+      "value": {
+        "none": [
+          "ncdir"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "title"
+        ]
+      },
+      "value": {
+        "none": [
+          "North Carolina Directories"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "mediatype"
+        ]
+      },
+      "value": {
+        "none": [
+          "collection"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "unclibraries",
+          "americana",
+          "texts"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "hidden"
+        ]
+      },
+      "value": {
+        "none": [
+          "true"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "addeddate"
+        ]
+      },
+      "value": {
+        "none": [
+          "2010-09-23 23:18:43"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "language"
+        ]
+      },
+      "value": {
+        "none": [
+          "eng"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "sponsor"
+        ]
+      },
+      "value": {
+        "none": [
+          "University of North Carolina at Chapel Hill"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "updatedate"
+        ]
+      },
+      "value": {
+        "none": [
+          "2011-06-27 20:28:12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "updater"
+        ]
+      },
+      "value": {
+        "none": [
+          "gingerbisharat"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "show_hidden_subcollections"
+        ]
+      },
+      "value": {
+        "none": [
+          "true",
+          "true"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "show_search_by_year"
+        ]
+      },
+      "value": {
+        "none": [
+          "true"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "none": [
+      "A collection of North Carolina City Directories from various contributing institutions.  Visit the North Carolina Directories page at Digital NC: <a href=\"http://digitalnc.org/collections/north-carolina-city-directories\">http://digitalnc.org/collections/north-carolina-city-directories</a>"
+    ]
+  },
+  "provider": [
+    {
+      "id": "https://archive.org",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "The Internet Archive"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://archive.org",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Internet Archive Homepage"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://archive.org/images/glogo.png",
+          "type": "Image",
+          "height": 79,
+          "width": 79,
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://archive.org/details/ncdir",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Item Page on Internet Archive"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.archive.org/iiif/millersgreenvill00mill/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Greenville, N.C. City Directory [1949-1950]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millersnewtoncon19611962/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Newton-Conover, N.C., City Directory [1961-1962]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/nelsonsmetropoli1962unse/manifest.json",
+      "label": {
+        "none": [
+          "Nelsons' Metropolitan Salisbury, North Carolina City Directory [1962]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millersshelbyncc53mill/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Shelby, N.C., City Directory [1953-1954]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/wilsondir19121913hill/manifest.json",
+      "label": {
+        "none": [
+          "Wilson, N.C. directory [1915/1916]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millersmountairy01unse/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Mount Airy, N.C. City Directory [1928/1929]."
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/lexingtonnccityd01gard/manifest.json",
+      "label": {
+        "none": [
+          "Lexington, N.C. city directory [serial]"
+        ]
+      },
+      "type": "Manifest",
+      "summary": {
+        "none": [
+          [
+            "v. : 24 cm",
+            "Advertisements included in the pagination",
+            "Vol. 1. Pagination begins with p. 103. Vol. is complete",
+            "Latest issue consulted: Vol. 1 (1916/1917)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millershenderson09mill/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Hendersonville, N.C. City Directory [1945/1946]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millersshelbyncc19551956/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Shelby, N.C., City Directory [1955-1956]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/bransonsnorthcar1890bran/manifest.json",
+      "label": {
+        "none": [
+          "Branson's North Carolina business directory ... [serial]"
+        ]
+      },
+      "type": "Manifest",
+      "summary": {
+        "none": [
+          [
+            "v. : 24 cm",
+            "Imprint varies",
+            "Includes advertisements",
+            "Edited by Levi Branson",
+            "Latest issue consulted: 9th (1897)"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millerslenoirnor50mill/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Lenoir, North Carolina, City Directory [1950-1951]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/millersnewtoncon19591960/manifest.json",
+      "label": {
+        "none": [
+          "Miller's Newton-Conover, N.C., City Directory [1959-1960]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/statesvillenorth06pied/manifest.json",
+      "label": {
+        "none": [
+          "Statesville, North Carolina, city directory [serial]"
+        ]
+      },
+      "type": "Manifest",
+      "summary": {
+        "none": [
+          [
+            "v. ; 25 cm",
+            "Description based on: Vol. 4 (1916-1917)",
+            "Publisher varies. Asheville, N.C. : Commercial Service Co., -1925",
+            "Advertisements included in the pagination"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/highpointnccityd05pied/manifest.json",
+      "label": {
+        "none": [
+          "High Point, N.C. city directory [serial]"
+        ]
+      },
+      "type": "Manifest",
+      "summary": {
+        "none": [
+          [
+            "v. ; 24 cm",
+            "Advertisements included in the pagination",
+            "Publisher varies. Asheville, N.C. : Commercial Service Co., -1927"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/highpointnccityd03pied/manifest.json",
+      "label": {
+        "none": [
+          "High Point, N.C. city directory [serial]"
+        ]
+      },
+      "type": "Manifest",
+      "summary": {
+        "none": [
+          [
+            "v. ; 24 cm",
+            "Advertisements included in the pagination",
+            "Publisher varies. Asheville, N.C. : Commercial Service Co., -1927"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillsraleighwake1954hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Raleigh (Wake County, N.C.) City Directory [1954]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillsraleighwake34hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Raleigh (Wake County, N.C.) City Directory [1945/1946]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillstarboroedge1956unse/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Tarboro (Edgecombe County, N.C.) City Directory [1956]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillsrockymounte1948unse/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Rocky Mount (Edgecombe and Nash counties, N.C.) City Directory [1948]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillsrockymounte13hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Rocky Mount (Edgecombe County, N.C.) City Directory [1942]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillsrockymounte16hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Rocky Mount (Edgecombe and Nash Counties, N.C.) City Directory [1950]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillstarboroedge1958unse/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Tarboro (Edgecombe County, N.C.) City Directory [1958]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillsrockymounte1952hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Rocky Mount (Edgecombe and Nash counties, N.C.) City Directory [1952]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswashingtonb1959hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Washington (Beaufort County, N.C.) City Directory [1959]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswaynesville1959hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Waynesville, Hazelwood and Lake Junaluska (Haywood County, N.C.) City Directory [1959]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswilsonwilso14hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Wilson (Wilson County, N.C.) City Directory [1950]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswilmingtonn22hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Wilmington (New Hanover County, N.C.) City Directory [1938]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswilmingtonn1959hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Wilmington (New Hanover County, N.C.) City Directory [1959]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswindsorbert1960hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Windsor (Bertie County, N.C.) City Directory [1960]"
+        ]
+      },
+      "type": "Manifest"
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/hillswilmingtonn1958hill/manifest.json",
+      "label": {
+        "none": [
+          "Hill's Wilmington (New Hanover County, N.C.) City Directory [1958]"
+        ]
+      },
+      "type": "Manifest"
+    }
+  ]
+}
