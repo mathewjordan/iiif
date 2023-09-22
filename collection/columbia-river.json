@@ -1,0 +1,33 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/collection/columbia-river.json",
+  "type": "Collection",
+  "label": {
+    "none": ["Columbia River"]
+  },
+  "items": [
+    {
+      "id": "https://cdm16786.contentdm.oclc.org/iiif/2/grandcoulee/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Grand Coulee"]
+      }
+    },
+    {
+      "id": "https://digital.lib.uidaho.edu/iiif/info/crbproj/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Columbia River Basin Project"]
+      }
+    },
+    {
+      "id": "https://digital.lib.uidaho.edu/iiif/info/dworshak/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Dworshak"]
+      }
+    }
+  ]
+}
