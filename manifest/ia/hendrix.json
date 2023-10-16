@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.archive.org/iiif/Jimi_Hendrix_Hey_Joe_/manifest.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/ia/hendrix.json",
   "type": "Manifest",
   "label": {
     "none": [
