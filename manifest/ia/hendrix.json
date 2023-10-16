@@ -198,7 +198,7 @@
                     "height": 480,
                     "width": 640,
                     "duration": 239.44,
-                    "format": "video/mp4",
+                    "format": "video/h264",
                     "label": {
                       "none": [
                         "h.264"
