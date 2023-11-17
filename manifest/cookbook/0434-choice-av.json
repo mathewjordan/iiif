@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "{{ id.url }}",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/cookbook/0434-choice-av.json",
   "type": "Manifest",
   "label": { "en": ["Audiofile title goes here"] },
   "items": [
