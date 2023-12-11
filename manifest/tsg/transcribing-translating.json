@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://d27rpn9w26s356.cloudfront.net/4b952b7a-cc81-4818-82b3-01de265a4f95.json",
+    "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/tsg/transcribing-translating.json",
     "type": "Manifest",
     "label": {
         "none": [
