@@ -1,13 +1,12 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://weareavp.aviaryplatform.com/iiif/z892805d83/manifest",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/aviary.json",
   "type": "Manifest",
   "label": {
     "en": [
       "How to Subscribe to Aviary"
     ]
   },
-  "logo": "https://d9jk7wjtjpu5g.cloudfront.net/organizations/logo_images/000/000/007/original/avp-logo-login_2x.png?1692278773",
   "metadata": [
     {
       "label": {
