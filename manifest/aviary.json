@@ -1,0 +1,250 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://weareavp.aviaryplatform.com/iiif/z892805d83/manifest",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "How to Subscribe to Aviary"
+    ]
+  },
+  "logo": "https://d9jk7wjtjpu5g.cloudfront.net/organizations/logo_images/000/000/007/original/avp-logo-login_2x.png?1692278773",
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Duration"
+        ]
+      },
+      "value": {
+        "en": [
+          "00:01:43"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>Anyone can search and discover audiovisual content through Aviary. Users simply visit aviaryplatform.com in a browser to view and experience content that’s hosted on the platform. A subscription is necessary, however, if you wish to publish your organization’s content on Aviary. This video will walk you through how to subscribe.</p> (general)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2023-09-18 (issued)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Keyword"
+        ]
+      },
+      "value": {
+        "en": [
+          "Aviary help",
+          "Tutorial"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Agent"
+        ]
+      },
+      "value": {
+        "en": [
+          "Kevin Glick (Narrator)"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "<p>Anyone can search and discover audiovisual content through Aviary. Users simply visit aviaryplatform.com in a browser to view and experience content that&rsquo;s hosted on the platform. A subscription is necessary, however, if you wish to publish your organization&rsquo;s content on Aviary. This video will walk you through how to subscribe.</p>"
+    ]
+  },
+  "provider": [
+    {
+      "id": "https://weareavp.aviaryplatform.com/aboutus",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "AVP"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://weareavp.aviaryplatform.com/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "AVP"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://d9jk7wjtjpu5g.cloudfront.net/organizations/logo_images/000/000/007/original/avp-logo-login_2x.png?1692278773",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/208/029/small/thumbnail_208029_1696215495.jpg?1696215495",
+      "type": "Image",
+      "format": "image/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Media File 1 of 1 - How_to_Subscribe_to_Aviary.mp4"
+        ]
+      },
+      "duration": 103.024,
+      "width": 640,
+      "height": 360,
+      "thumbnail": [
+        {
+          "id": "https://d9jk7wjtjpu5g.cloudfront.net/collection_resource_files/thumbnails/000/208/029/small/thumbnail_208029_1696215495.jpg?1696215495",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/content/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/content/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://aviary-p-weareavp.s3.wasabisys.com/collection_resource_files/resource_files/000/208/029/original/How_to_Subscribe_to_Aviary.mp4?1695060156",
+                "type": "Video",
+                "format": "video/mp4",
+                "duration": 103.024,
+                "width": 640,
+                "height": 360
+              },
+              "target": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029",
+              "metadata": []
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "HowtoSubscribetoAviary.json [Transcript]"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738/annotation/1",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Aviary is a subscription cloud service. Any user or researcher can search and discover publicly accessible audio visual content through Aviary. Users do this by visiting aviaryplatform.com in a browser to view and experience content that's hosted by various organizations on the platform. ",
+                "format": "text/plain"
+              },
+              "target": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029#t=0.51,18.03"
+            },
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738/annotation/2",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "However, if you would like to create, describe, enhance, and/or publish your organization's audiovisual content, it is necessary to subscribe to Aviary. ",
+                "format": "text/plain"
+              },
+              "target": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029#t=18.4,27.01"
+            },
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738/annotation/3",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "The process of subscribing to Aviary is not difficult. Simply go to the Aviary Publish Content page (aviaryplatform.com/pricing). Aviary offers flexible pricing plans with different subscription levels depending on the number of Aviary resources you wish to add. Each Aviary subscription includes media storage bundled as part of subscription price. Toggle the switch to view monthly or yearly subscription options, then simply select the plan that's right for you by clicking on the appropriate Subscribe button. Fill out the billing information to subscribe using a credit card, or use the contact us link to correspond with Aviary about paying annually with an organizational invoice.",
+                "format": "text/plain"
+              },
+              "target": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029#t=27.24,68.42"
+            },
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738/annotation/4",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Note that in addition to the regular Aviary subscription types, organizations can also sign up for a free OHMS Aviary subscription, which grants the org access to the Oral History Metadata Synchronizer application inside a fully-functional limited-size Aviary organizational repository. While this functionality is free, it still must be subscribed to and renewed annually. ",
+                "format": "text/plain"
+              },
+              "target": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029#t=69.45,91.74"
+            },
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738/annotation/5",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "For more in depth aviary documentation and support, please visit aviaryplatform.com/support to view the user guide or contact us with questions. Thank you!",
+                "format": "text/plain"
+              },
+              "target": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029#t=92.52,102.51"
+            }
+          ]
+        },
+        {
+          "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "English [Transcript]"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://weareavp.aviaryplatform.com/collections/41/collection_resources/4741/file/208029/transcript/49738/annotation/6",
+              "type": "Annotation",
+              "motivation": "subtitling",
+              "body": {
+                "type": "TextualBody",
+                "value": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/049/738/original/transcript_1695063300.vtt20230918-2279004-hy6du2?1695063300",
+                "format": "text/vtt",
+                "language": "en"
+              },
+              "target": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/049/738/original/transcript_1695063300.vtt20230918-2279004-hy6du2?1695063300"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
