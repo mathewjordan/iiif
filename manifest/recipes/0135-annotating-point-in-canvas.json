@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0135-annotating-point-in-canvas/manifest.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/recipes/0135-annotating-point-in-canvas.json",
   "type": "Manifest",
   "label": {
     "en": [
