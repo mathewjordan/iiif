@@ -23,7 +23,7 @@ Allāh ibn al-Ḥājj Ibrāhīm
 _within it all the sciences of evil are discerned._
 
 *Hīmiyyā, sīmiyyā,* and *ruqiyyas* known   
-to harm are considered sorcery -
+&nbsp;&nbsp; to harm are considered sorcery -
 
 > It includes conferring on someone a benefit or an affliction,
 >> which, according to law, is not deserved,
