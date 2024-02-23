@@ -28,11 +28,10 @@ _within it all the sciences of evil are discerned._
 ```
 Or peering into the realm of the unseen 5
     or deploying a name for a worldly decree.
-```
 
 To masters of the sciences of evil, bring the good news -
-
-of their humiliating poverty and grim fate.[^2]
+    of their humiliating poverty and grim fate.[^2]
+```
 
 *Hīmiyyā, sīmiyyā,* and *ruqiyyas* known
 
