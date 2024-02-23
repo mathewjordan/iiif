@@ -22,6 +22,9 @@ Allāh ibn al-Ḥājj Ibrāhīm
 \[Falsehood\] incurs disapproval and prohibition,[^1]  
 _within it all the sciences of evil are discerned._
 
+*Hīmiyyā, sīmiyyā,* and *ruqiyyas* known   
+to harm are considered sorcery -
+
 > It includes conferring on someone a benefit or an affliction,
 >> which, according to law, is not deserved,
 
@@ -32,9 +35,6 @@ Or peering into the realm of the unseen 5
 To masters of the sciences of evil, bring the good news -
     of their humiliating poverty and grim fate.[^2]
 ```
-
-*Hīmiyyā, sīmiyyā,* and *ruqiyyas* known   
-to harm are considered sorcery -
 
 Celestial is the first, and the second is,
 
