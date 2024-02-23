@@ -25,9 +25,10 @@ _within it all the sciences of evil are discerned._
 > It includes conferring on someone a benefit or an affliction,
 >> which, according to law, is not deserved,
 
+```
 Or peering into the realm of the unseen 5
-
-or deploying a name for a worldly decree.
+    or deploying a name for a worldly decree.
+```
 
 To masters of the sciences of evil, bring the good news -
 
