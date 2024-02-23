@@ -13,17 +13,14 @@ be upon them.
 This text is *The Guide for the Heedless* by the learned Imam Sīdī ʿAbd
 Allāh ibn al-Ḥājj Ibrāhīm
 
-a) All praise belongs to God, who led us
+* All praise belongs to God, who led us
+  - to the truth and away from falsehood, and denied us
 
-  b) to the truth and away from falsehood, and denied us
+* What the best of the honored ones forbade us
+  - may our Lord bring him peace and pray upon him.
 
-a) What the best of the honored ones forbade us
-
-  b) may our Lord bring him peace and pray upon him.
-
-\[Falsehood\] incurs disapproval and prohibition,[^1]
-
-within it all the sciences of evil are discerned.
+\[Falsehood\] incurs disapproval and prohibition,[^1]  
+_within it all the sciences of evil are discerned._
 
 It includes conferring on someone a benefit or an affliction,
 
