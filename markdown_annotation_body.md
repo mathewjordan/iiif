@@ -22,9 +22,8 @@ Allāh ibn al-Ḥājj Ibrāhīm
 \[Falsehood\] incurs disapproval and prohibition,[^1]  
 _within it all the sciences of evil are discerned._
 
-It includes conferring on someone a benefit or an affliction,
-
-which, according to law, is not deserved,
+> It includes conferring on someone a benefit or an affliction,
+>> which, according to law, is not deserved,
 
 Or peering into the realm of the unseen 5
 
