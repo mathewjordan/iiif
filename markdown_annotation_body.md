@@ -19,11 +19,11 @@ Allāh ibn al-Ḥājj Ibrāhīm
 * What the best of the honored ones forbade us
   - may our Lord bring him peace and pray upon him.
 
-\[Falsehood\] incurs disapproval and prohibition,[^1]  
-_within it all the sciences of evil are discerned._
-
 *Hīmiyyā, sīmiyyā,* and *ruqiyyas* known   
 &nbsp;&nbsp; to harm are considered sorcery -
+
+\[Falsehood\] incurs disapproval and prohibition,[^1]  
+_within it all the sciences of evil are discerned._
 
 > It includes conferring on someone a benefit or an affliction,
 >> which, according to law, is not deserved,
