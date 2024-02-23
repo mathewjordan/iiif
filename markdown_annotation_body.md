@@ -33,8 +33,7 @@ To masters of the sciences of evil, bring the good news -
     of their humiliating poverty and grim fate.[^2]
 ```
 
-*Hīmiyyā, sīmiyyā,* and *ruqiyyas* known
-
+*Hīmiyyā, sīmiyyā,* and *ruqiyyas* known   
 to harm are considered sorcery -
 
 Celestial is the first, and the second is,
