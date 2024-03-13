@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "127.0.0.1:8080/manifest.json",
+    "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/martim-bug.json",
     "type": "Manifest",
     "label": {
         "none": [
