@@ -7,6 +7,113 @@
             "Exposição Internacional de 1922 - Parque de Diversões"
         ]
     },
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ],
+            "pt-BR": [
+                "Atribuição"
+            ]
+        },
+        "value": {
+            "en": [
+                "Instituto Moreira Salles. Hosted by imagineRio."
+            ],
+            "pt-BR": [
+                "Instituto Moreira Salles. Hospedado por imagineRio."
+            ]
+        }
+    },
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "provider": [
+        {
+            "id": "https://imaginerio.org/",
+            "type": "Agent",
+            "label": {
+                "none": [
+                    "imagineRio"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "http://acervos.ims.com.br/portals/#/detailpage/82624",
+                    "type": "Text",
+                    "label": {
+                        "none": [
+                            "Instituto Moreira Salles"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ],
+            "logo": [
+                {
+                    "id": "https://aws1.discourse-cdn.com/free1/uploads/imaginerio/original/1X/8c4f71106b4c8191ffdcafb4edeedb6f6f58b482.png",
+                    "type": "Image",
+                    "height": 164,
+                    "width": 708,
+                    "format": "image/png"
+                }
+            ]
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://www.imaginerio.org/map#35103808",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "imagineRio"
+                ]
+            },
+            "format": "text/html"
+        },
+        {
+            "id": "https://www.wikidata.org/wiki/Q109630873",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Wikidata"
+                ]
+            },
+            "format": "text/html"
+        },
+        {
+            "id": "https://iiif.imaginerio.org/iiif/32481920/full/max/0/default.jpg",
+            "type": "Text",
+            "label": {
+                "en": [
+                    "Download image"
+                ],
+                "pt-BR": [
+                    "Baixar imagem"
+                ]
+            },
+            "format": "text/html"
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif.imaginerio.org/iiif/32481920/full/590,442/0/default.jpg",
+            "type": "Image",
+            "height": 442,
+            "width": 590,
+            "format": "image/jpeg"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://acervos.ims.com.br/portals/#/detailpage/82624",
+            "type": "Text",
+            "label": {
+                "none": [
+                    "Instituto Moreira Salles"
+                ]
+            },
+            "format": "text/html"
+        }
+    ],
     "items": [
         {
             "id": "https://iiif.imaginerio.org/iiif/32481920/canvas/1",
