@@ -58,41 +58,6 @@
             ]
         }
     ],
-    "seeAlso": [
-        {
-            "id": "https://www.imaginerio.org/map#35103808",
-            "type": "Text",
-            "label": {
-                "none": [
-                    "imagineRio"
-                ]
-            },
-            "format": "text/html"
-        },
-        {
-            "id": "https://www.wikidata.org/wiki/Q109630873",
-            "type": "Text",
-            "label": {
-                "none": [
-                    "Wikidata"
-                ]
-            },
-            "format": "text/html"
-        },
-        {
-            "id": "https://iiif.imaginerio.org/iiif/32481920/full/max/0/default.jpg",
-            "type": "Text",
-            "label": {
-                "en": [
-                    "Download image"
-                ],
-                "pt-BR": [
-                    "Baixar imagem"
-                ]
-            },
-            "format": "text/html"
-        }
-    ],
     "thumbnail": [
         {
             "id": "https://iiif.imaginerio.org/iiif/32481920/full/590,442/0/default.jpg",
