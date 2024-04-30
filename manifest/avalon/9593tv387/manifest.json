@@ -213,7 +213,7 @@
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
-                "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/supplemental_files/100/captions",
+                "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/avalon/9593tv387/captions.vtt",
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
@@ -233,7 +233,7 @@
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
-                "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/supplemental_files/101/transcripts",
+                "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/avalon/9593tv387/transcript.vtt",
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
@@ -253,7 +253,7 @@
               "type": "Annotation",
               "motivation": "supplementing",
               "body": {
-                "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/supplemental_files/102/transcripts",
+                "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/avalon/9593tv387/annotations.vtt",
                 "type": "Text",
                 "format": "text/vtt",
                 "label": {
