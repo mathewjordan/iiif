@@ -1,0 +1,188 @@
+WEBVTT
+
+0:00:01.480 --> 0:00:03.660
+Okay, so we're going to do a little demo of AMP.
+
+0:00:04.100 --> 0:00:07.000
+So we're going to start with creating a workflow. So I'm here in AMP.
+
+0:00:07.160 --> 0:00:10.260
+I'm going to come in and create a new workflow.
+
+0:00:16.360 --> 0:00:21.040
+And we're going to call this workflow transcripts,
+
+0:00:21.080 --> 0:00:23.600
+AWS transcribe, and whisper.
+
+0:00:25.380 --> 0:00:28.560
+We're going to use this workflow to create transcripts from
+
+0:00:28.560 --> 0:00:30.840
+both modules. Okay,
+
+0:00:30.940 --> 0:00:34.020
+so here is the workflow editor that's being provided by
+
+0:00:34.020 --> 0:00:36.520
+Galaxy, which is our open source project.
+
+0:00:44.860 --> 0:00:46.700
+Okay, so we're going to create a workflow here.
+
+0:00:46.820 --> 0:00:48.660
+First thing I'm going to do is get some data.
+
+0:00:49.860 --> 0:00:53.320
+And then we're going to grab our audio from it because we're in transcripts.
+
+0:00:53.480 --> 0:00:56.500
+So what we need is the audio from the input
+
+0:00:56.500 --> 0:00:57.980
+file. And the next step,
+
+0:00:58.000 --> 0:01:00.700
+we're going to come to the speech to text section.
+
+0:01:01.000 --> 0:01:04.340
+You can see we have AWS transcribe as one of our metadata
+
+0:01:04.340 --> 0:01:08.160
+generation tools. And then we also have whisper as
+
+0:01:08.160 --> 0:01:10.840
+one of our metadata generation tools. So I'm going to add them both in here.
+
+0:01:10.920 --> 0:01:13.660
+So it'll be creating transcripts via two different mechanisms.
+
+0:01:13.660 --> 0:01:16.900
+And we'll connect to the audio from
+
+0:01:16.900 --> 0:01:18.500
+the source up to both of them.
+
+0:01:18.900 --> 0:01:21.620
+We really only need the transcripts,
+
+0:01:21.680 --> 0:01:24.100
+so we don't need these other types of outputs.
+
+0:01:24.960 --> 0:01:28.420
+And then whisper is capable of producing a web VTT file,
+
+0:01:28.660 --> 0:01:31.080
+but AWS transcribe,
+
+0:01:31.340 --> 0:01:33.960
+we need to do conversion to web VTT.
+
+0:01:34.200 --> 0:01:35.680
+So I'll add that bit on here.
+
+0:01:35.940 --> 0:01:39.340
+And I'll pass along the diarization and the transcript
+
+0:01:39.340 --> 0:01:40.220
+that's been generated.
+
+0:01:41.920 --> 0:01:44.960
+Okay, we don't need that. Okay, so we have a simple workflow here.
+
+0:01:45.100 --> 0:01:46.140
+We've got our input coming in.
+
+0:01:46.320 --> 0:01:49.560
+We've got our audio going to both speech to text to generate web
+
+0:01:49.560 --> 0:01:52.760
+VTT and then also going to AWS transcribe
+
+0:01:52.760 --> 0:01:54.500
+to generate a web VTT.
+
+0:01:55.060 --> 0:01:57.700
+We've named this whisper, we've named this.
+
+0:02:02.380 --> 0:02:04.180
+Transcripts, AWS transcribe and whisper,
+
+0:02:04.440 --> 0:02:07.460
+and then we're going to add a tag here to make sure that it is
+
+0:02:07.460 --> 0:02:07.980
+published.
+
+0:02:19.780 --> 0:02:21.760
+And then while that's going to click done here.
+
+0:02:22.900 --> 0:02:24.460
+And now that we've created this workflow,
+
+0:02:24.560 --> 0:02:27.000
+we're going to go actually go back and run this workflow.
+
+0:02:27.000 --> 0:02:30.180
+So we can go ahead and select this from workflow. Here it is,
+
+0:02:30.540 --> 0:02:33.600
+right here. And we're going to go ahead and type in,
+
+0:02:33.980 --> 0:02:37.400
+we're going to put in one of our Clio collection files from
+
+0:02:37.400 --> 0:02:40.520
+1967. These are the
+
+0:02:40.520 --> 0:02:43.320
+35 millimeter winners from the US 1967.
+
+0:02:44.340 --> 0:02:47.480
+We'll go ahead and add that file, and we can run the workflow.
+
+0:02:48.140 --> 0:02:49.620
+Okay, so that workflow is submitted.
+
+0:02:50.500 --> 0:02:53.440
+And we can go and see that'll probably take a few minutes to run.
+
+0:02:53.440 --> 0:02:55.020
+And then we can go into the dashboard.
+
+0:02:55.400 --> 0:02:59.560
+So dashboard here and amp shows the outputs from all
+
+0:02:59.560 --> 0:03:02.580
+different workflows that have been submitted by different people into the past
+
+0:03:02.580 --> 0:03:03.920
+and can be filtered.
+
+0:03:04.140 --> 0:03:07.260
+So if we wanted to we could come in here and filter this by for the
+
+0:03:07.260 --> 0:03:08.880
+file that we just submitted.
+
+0:03:10.060 --> 0:03:12.080
+Here's the 35 millimeter award winners.
+
+0:03:12.400 --> 0:03:13.760
+We can see only these files.
+
+0:03:14.220 --> 0:03:17.340
+And then we can take a look at the output. So if you look here,
+
+0:03:17.680 --> 0:03:21.340
+we got a web
+
+0:03:21.340 --> 0:03:24.080
+VTT file created by whisper here.
+
+0:03:24.500 --> 0:03:27.600
+And so this can be just saved down to your computer as one way to get
+
+0:03:27.600 --> 0:03:27.940
+the file.
+
