@@ -208,7 +208,7 @@
         {
           "type": "AnnotationPage",
           "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf/captions",
-          "label": { none: ["Captions"] },
+          "label": { "none": ["Captions"] },
           "items": [
             {
               "type": "Annotation",
@@ -235,7 +235,7 @@
         {
           "type": "AnnotationPage",
           "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf/transcript",
-          "label": { none: ["Transcript"] },
+          "label": { "none": ["Transcript"] },
           "items": [
             {
               "type": "Annotation",
@@ -262,7 +262,7 @@
         {
           "type": "AnnotationPage",
           "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf/annotations",
-          "label": { none: ["Annotations"] },
+          "label": { "none": ["Annotations"] },
           "items": [
             {
               "type": "Annotation",
