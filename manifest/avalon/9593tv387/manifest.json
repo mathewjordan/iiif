@@ -1,0 +1,354 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest",
+  "label": {
+    "none": [
+      "AMP demo updated"
+    ]
+  },
+  "behavior": [
+    "auto-advance"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "AMP demo updated"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "2023"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "Lynema, Emily"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"https://demo.avalonmediasystem.org/collections/sf268532d\">Test Collection</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Unit"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"https://demo.avalonmediasystem.org/collections?filter=Test+Content+From+Evaluators\">Test Content From Evaluators</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Rights Statement"
+        ]
+      },
+      "value": {
+        "none": [
+          "<a href=\"http://rightsstatements.org/vocab/InC/1.0/\">In Copyright</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Access Restrictions"
+        ]
+      },
+      "value": {
+        "none": [
+          "This item is accessible by: the public."
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387",
+      "type": "Text",
+      "label": {
+        "none": [
+          "View in Repository"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "items": [
+    {
+      "type": "Canvas",
+      "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577",
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/edbff515-96d2-4b44-ba3a-fab74b17e6aa",
+          "items": [
+            {
+              "type": "Annotation",
+              "motivation": "painting",
+              "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/edbff515-96d2-4b44-ba3a-fab74b17e6aa/annotation/2060e44a-a6c5-4427-b04a-3d6618176d85",
+              "target": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577",
+              "body": {
+                "type": "Choice",
+                "choiceHint": "user",
+                "items": [
+                  {
+                    "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/auto.m3u8",
+                    "type": "Video",
+                    "height": 794,
+                    "width": 1408,
+                    "duration": 176.203,
+                    "format": "application/x-mpegURL",
+                    "label": {
+                      "none": [
+                        "auto"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/high.m3u8",
+                    "type": "Video",
+                    "height": 794,
+                    "width": 1408,
+                    "duration": 176.203,
+                    "format": "application/x-mpegURL",
+                    "label": {
+                      "none": [
+                        "high"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/medium.m3u8",
+                    "type": "Video",
+                    "height": 794,
+                    "width": 1408,
+                    "duration": 176.203,
+                    "format": "application/x-mpegURL",
+                    "label": {
+                      "none": [
+                        "medium"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/low.m3u8",
+                    "type": "Video",
+                    "height": 794,
+                    "width": 1408,
+                    "duration": 176.203,
+                    "format": "application/x-mpegURL",
+                    "label": {
+                      "none": [
+                        "low"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "label": {
+        "none": [
+          "AMP demo updated"
+        ]
+      },
+      "seeAlso": [
+        {
+          "type": "Dataset",
+          "format": "application/json",
+          "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/waveform.json",
+          "label": {
+            "en": [
+              "waveform.json"
+            ]
+          }
+        }
+      ],
+      "annotations": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf",
+          "items": [
+            {
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/supplemental_files/100/captions",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "eng": [
+                    "amp-demo-amia-caption.vtt"
+                  ],
+                  "none": [
+                    "amp-demo-amia-caption.vtt"
+                  ]
+                },
+                "language": "eng"
+              },
+              "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf/supplementing/c7389211-4a1c-41ba-9c4c-3e8f00d23526",
+              "target": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577"
+            },
+            {
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/supplemental_files/101/transcripts",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "eng": [
+                    "amp-demo-amia-transcript.vtt"
+                  ],
+                  "none": [
+                    "amp-demo-amia-transcript.vtt"
+                  ]
+                },
+                "language": "eng"
+              },
+              "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf/supplementing/dd3bbeb0-9007-4a69-bfcb-6ef3d35e273c",
+              "target": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577"
+            },
+            {
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/supplemental_files/102/transcripts",
+                "type": "Text",
+                "format": "text/vtt",
+                "label": {
+                  "eng": [
+                    "amp-demo-amia-annotations.vtt"
+                  ],
+                  "none": [
+                    "amp-demo-amia-annotations.vtt"
+                  ]
+                },
+                "language": "eng"
+              },
+              "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/annotation_page/b04c8ccf-c40d-4d90-9e4b-2c9527f8c1bf/supplementing/22524676-2b14-4c85-9aa7-2702452948bc",
+              "target": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [],
+      "width": 1408,
+      "height": 794,
+      "duration": 176.203,
+      "placeholderCanvas": {
+        "type": "Canvas",
+        "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/placeholder",
+        "width": 1280,
+        "height": 720,
+        "items": [
+          {
+            "type": "AnnotationPage",
+            "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/placeholder/annotation_page/a66fafd1-c2b5-414a-82dd-8cc0b5a3251b",
+            "items": [
+              {
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/poster",
+                  "type": "Image",
+                  "height": 720,
+                  "width": 1280,
+                  "format": "image/jpeg"
+                },
+                "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/placeholder/annotation_page/a66fafd1-c2b5-414a-82dd-8cc0b5a3251b/annotation/ccc823fe-a495-4f30-ad06-fb56548b203e",
+                "target": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577/placeholder"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "structures": [
+    {
+      "type": "Range",
+      "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/range/r4979bf4c-2807-4b05-863b-b7cc0a7289f3",
+      "label": null,
+      "behavior": "top",
+      "items": [
+        {
+          "type": "Range",
+          "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/range/r0245e04e-d939-4454-99a1-40de064ec3a3",
+          "label": {
+            "none": [
+              "AMP demo updated"
+            ]
+          },
+          "items": [
+            {
+              "type": "Canvas",
+              "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577#t=0,176.203"
+            },
+            {
+              "type": "Range",
+              "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/range/rc38beadc-ba51-418b-8329-79b26f423c09",
+              "label": {
+                "none": [
+                  "workflows"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest/canvas/2801pg577#t=0.0,60.0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://demo.avalonmediasystem.org/master_files/2801pg577/thumbnail",
+      "type": "Image"
+    }
+  ]
+}
