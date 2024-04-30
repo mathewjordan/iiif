@@ -4,7 +4,7 @@
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "type": "Manifest",
-  "id": "https://demo.avalonmediasystem.org/media_objects/9593tv387/manifest",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/main/manifest/avalon/9593tv387/manifest.json",
   "label": {
     "none": [
       "AMP demo updated"
