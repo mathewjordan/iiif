@@ -1,0 +1,66 @@
+WEBVTT
+
+0:02:36.808 --> 0:03:27.940
+Okay, so we're going to do a little demo of AMP.
+So we're going to start with creating a workflow. So I'm here in AMP.
+I'm going to come in and create a new workflow.
+And we're going to call this workflow transcripts,
+AWS transcribe, and whisper.
+We're going to use this workflow to create transcripts from
+both modules. Okay,
+so here is the workflow editor that's being provided by
+Galaxy, which is our open source project.
+Okay, so we're going to create a workflow here.
+First thing I'm going to do is get some data.
+And then we're going to grab our audio from it because we're in transcripts.
+So what we need is the audio from the input
+file. And the next step,
+we're going to come to the speech to text section.
+You can see we have AWS transcribe as one of our metadata
+generation tools. And then we also have whisper as
+one of our metadata generation tools. So I'm going to add them both in here.
+So it'll be creating transcripts via two different mechanisms.
+And we'll connect to the audio from
+the source up to both of them.
+We really only need the transcripts,
+so we don't need these other types of outputs.
+And then whisper is capable of producing a web VTT file,
+but AWS transcribe,
+we need to do conversion to web VTT.
+So I'll add that bit on here.
+And I'll pass along the diarization and the transcript
+that's been generated.
+Okay, we don't need that. Okay, so we have a simple workflow here.
+We've got our input coming in.
+We've got our audio going to both speech to text to generate web
+VTT and then also going to AWS transcribe
+to generate a web VTT.
+We've named this whisper, we've named this.
+Transcripts, AWS transcribe and whisper,
+and then we're going to add a tag here to make sure that it is
+published.
+And then while that's going to click done here.
+And now that we've created this workflow,
+we're going to go actually go back and run this workflow.
+So we can go ahead and select this from workflow. Here it is,
+right here. And we're going to go ahead and type in,
+we're going to put in one of our Clio collection files from
+1967. These are the
+35 millimeter winners from the US 1967.
+We'll go ahead and add that file, and we can run the workflow.
+Okay, so that workflow is submitted.
+And we can go and see that'll probably take a few minutes to run.
+And then we can go into the dashboard.
+So dashboard here and amp shows the outputs from all
+different workflows that have been submitted by different people into the past
+and can be filtered.
+So if we wanted to we could come in here and filter this by for the
+file that we just submitted.
+Here's the 35 millimeter award winners.
+We can see only these files.
+And then we can take a look at the output. So if you look here,
+we got a web
+VTT file created by whisper here.
+And so this can be just saved down to your computer as one way to get
+the file.
+
