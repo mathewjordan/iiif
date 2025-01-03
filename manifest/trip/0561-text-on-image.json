@@ -1,0 +1,46 @@
+{
+  "id": "https://iiif.io/api/cookbook/recipe/0561-text-on-image/manifest.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0561-text-on-image/canvas",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/0561-text-on-image/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0561-text-on-image/annotation/p0001-image",
+              "body": {
+                "id": "https://iiif.io/api/image/3.0/example/reference/36ca0a3370db128ec984b33d71a1543d-100320001004/full/max/0/default.jpg",
+                "type": "Image",
+                "width": 70399,
+                "format": "image/jpeg",
+                "height": 31722,
+                "service": [
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/36ca0a3370db128ec984b33d71a1543d-100320001004",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "type": "Annotation",
+              "target": "https://iiif.io/api/cookbook/recipe/0561-text-on-image/canvas",
+              "motivation": "painting"
+            }
+          ]
+        }
+      ],
+      "width": 70399,
+      "height": 31722
+    }
+  ],
+  "label": {
+    "en": [
+      "Single Image"
+    ]
+  },
+  "@context": "http://iiif.io/api/presentation/3/context.json"
+}
