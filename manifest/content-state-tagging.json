@@ -5,8 +5,7 @@
   "motivation": ["contentState", "tagging"],
   "body": {
     "type": "TextualBody",
-    "value": "My annotation note...",
-    "language": "en",
+    "value": "My ephemeral note as a IIIF Annotation...",
     "format": "text/plain"
   },
   "target": {
