@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif-maktaba.dc.library.northwestern.edu/ecf6bb07-8cb2-4cae-83d9-9e1d714aefef.json",
+    "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/multiple-languages.json",
     "type": "Manifest",
     "label": {
         "none": [
