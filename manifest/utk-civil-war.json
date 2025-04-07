@@ -3,7 +3,7 @@
     "http://iiif.io/api/extension/navplace/context.json",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://digital.lib.utk.edu/assemble/manifest/civilwar/5390",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/utk-civil-war.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -524,6 +524,9 @@
             }
           ]
         }
+      ],
+      "behavior": [
+        "non-paged"
       ],
       "items": [
         {
