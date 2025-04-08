@@ -7,9 +7,6 @@
       "Michel Kovatchevitch correspondence, postcard"
     ]
   },
-  "behavior": [
-    "paged"
-  ],
   "metadata": [
     {
       "label": {
@@ -254,7 +251,7 @@
         ]
       },
       "behavior": [
-        "paged"
+        "facing-pages"
       ],
       "thumbnail": [
         {
@@ -351,7 +348,7 @@
         ]
       },
       "behavior": [
-        "paged"
+        "facing-pages"
       ],
       "thumbnail": [
         {
