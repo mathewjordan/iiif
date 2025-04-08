@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://api.dc.library.northwestern.edu/api/v2/works/5f5d0df9-f279-4d28-a4dc-ddc11e2be4b3?as=iiif",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/facing-pages.json",
   "type": "Manifest",
   "label": {
     "none": [
