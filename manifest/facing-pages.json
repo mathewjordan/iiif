@@ -8,7 +8,7 @@
     ]
   },
   "behavior": [
-    "facing-pages"
+    "paged"
   ],
   "metadata": [
     {
@@ -253,6 +253,9 @@
           "recto"
         ]
       },
+      "behavior": [
+        "facing-pages"
+      ],
       "thumbnail": [
         {
           "id": "https://iiif.dc.library.northwestern.edu/iiif/3/34906273-e661-4cf1-ae20-849c4d21d01c/full/!300,300/0/default.jpg",
@@ -347,6 +350,9 @@
           "verso"
         ]
       },
+      "behavior": [
+        "facing-pages"
+      ],
       "thumbnail": [
         {
           "id": "https://iiif.dc.library.northwestern.edu/iiif/3/cf9f7fc4-c242-4ca9-a77f-25daf355af92/full/!300,300/0/default.jpg",
