@@ -5095,7 +5095,7 @@
     }
   ],
   "logo": "https://images.is.ed.ac.uk/luna/images/LUNAIIIF80.png",
-  "@id": "https://librarylabs.ed.ac.uk/mahabharataScroll.json",
+  "@id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/monster-scroll.json",
   "@type": "sc:Manifest",
   "related": "https://images.is.ed.ac.uk/luna/servlet/detail/UoE~3~3~319~206598",
   "label": "Mahabharata Scroll"
