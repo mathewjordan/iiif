@@ -1,0 +1,1032 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/metadata/iiifmanifest/Archipelago%20Workshop%20Presentation%20%3A%20IIIF%20Annual%202023_manifest.jsonld",
+  "label": {
+    "en": [
+      "Archipelago Workshop Presentation : IIIF Annual 2023"
+    ]
+  },
+  "rights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "behavior": [
+    "paged"
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by Archipelago Deployment"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>Presentation for Archipelago Workshop for the 2023 IIIF Annual Conference held in Naples, Italy.</p>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "navDate"
+        ]
+      },
+      "value": {
+        "en": [
+          "May 5th at 9:28pm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "license"
+        ]
+      },
+      "value": {
+        "en": [
+          "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+        ]
+      }
+    }
+  ],
+  "service": [
+    {
+      "id": "https://studio.esmero.io/iiifcontentsearch/v2/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/metadatadisplayexposed/iiifmanifest/mode/advanced/page/0",
+      "type": "SearchService2"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=1",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=1",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;1/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;1",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "2 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=2",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=2",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;2",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "3 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=3",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=3",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;3/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;3",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "4 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=4",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=4",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;4/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;4",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "5 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=5",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=5",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;5/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;5",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "6 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=6",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=6",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;6/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;6",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "7 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=7",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=7",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;7/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;7",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "8 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=8",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=8",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;8/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;8",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "9 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=9",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=9",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;9/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;9",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "10 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=10",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=10",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;10/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;10",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "11 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=11",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=11",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;11/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;11",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "12 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=12",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=12",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;12/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;12",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "13 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=13",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=13",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;13/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;13",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "14 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=14",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=14",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;14/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;14",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "15 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=15",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=15",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;15/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;15",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "16 of 16 pages: Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=16",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 135
+        }
+      ],
+      "height": 844,
+      "width": 1500,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/page/p16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/annotation/p16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf/full/240,/0/default.jpg?page=16",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 135
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;16/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/b50%2Fapplication-iiif-annual-2023-archipelago-workshop-2-2baaa721-5479-43e4-8b78-a5c81a1d51a2.pdf;16",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p16"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/range/r1",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Archipelago Workshop Presentation : IIIF Annual 2023"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p1",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p2",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p3",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p4",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p5",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p6",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p7",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p8",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p9",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p10",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p11",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p12",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p13",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p14",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p15",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/iiif/2baaa721-5479-43e4-8b78-a5c81a1d51a2/canvas/p16",
+          "type": "Canvas"
+        }
+      ]
+    }
+  ]
+}
