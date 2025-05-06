@@ -1,1 +1,461 @@
-
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "type": "Manifest",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/content-search-short.json",
+  "label": {
+    "en": [
+      "New York Zoological Park photo booklet, 1905"
+    ]
+  },
+  "rights": "Copyright Wildlife Conservation Society. For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org",
+  "behavior": [
+    "paged"
+  ],
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "Provided by Archipelago Deployment"
+      ]
+    }
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "description"
+        ]
+      },
+      "value": {
+        "en": [
+          "<p>Booklet of photographs of the zoo</p>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "navDate"
+        ]
+      },
+      "value": {
+        "en": [
+          "May 6th at 8:08am"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "license"
+        ]
+      },
+      "value": {
+        "en": [
+          "Copyright Wildlife Conservation Society. For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org"
+        ]
+      }
+    }
+  ],
+  "within": "https://studio.esmero.io/do/953a23ad-eb4d-439f-9e0b-973d36c6c26b",
+  "partOf": [
+    {
+      "id": "https://studio.esmero.io/do/953a23ad-eb4d-439f-9e0b-973d36c6c26b/metadata/iiifmanifest3collection/default.jsonld",
+      "type": "Manifest"
+    }
+  ],
+  "service": [
+    {
+      "id": "https://studio.esmero.io/iiifcontentsearch/v2/do/9083aa6e-0433-4f9e-a079-b09685edef4a/metadatadisplayexposed/iiifmanifest/mode/advanced/page/0",
+      "type": "SearchService2"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/8f0%2Fimage-ed8abf352655e1858513603406ffbaea-wcs-2016-bz-spu-002a-7cdf0954-e634-4fe6-9c64-504d93df085f.jpg/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 200
+        }
+      ],
+      "height": 2189,
+      "width": 2621,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/annotation/p1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/8f0%2Fimage-ed8abf352655e1858513603406ffbaea-wcs-2016-bz-spu-002a-7cdf0954-e634-4fe6-9c64-504d93df085f.jpg/full/240,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 200
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/8f0%2Fimage-ed8abf352655e1858513603406ffbaea-wcs-2016-bz-spu-002a-7cdf0954-e634-4fe6-9c64-504d93df085f.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/8f0%2Fimage-ed8abf352655e1858513603406ffbaea-wcs-2016-bz-spu-002a-7cdf0954-e634-4fe6-9c64-504d93df085f.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2189,
+                "width": 2621
+              },
+              "target": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/c49%2Fimage-87f4f62e13e9df4ab26c063f2a0afa11-wcs-2016-bz-spu-002b-39504f46-8461-4fda-be7b-d969ee459d54.jpg/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 209
+        }
+      ],
+      "height": 2114,
+      "width": 2431,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/page/p2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/annotation/p2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/c49%2Fimage-87f4f62e13e9df4ab26c063f2a0afa11-wcs-2016-bz-spu-002b-39504f46-8461-4fda-be7b-d969ee459d54.jpg/full/240,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 209
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/c49%2Fimage-87f4f62e13e9df4ab26c063f2a0afa11-wcs-2016-bz-spu-002b-39504f46-8461-4fda-be7b-d969ee459d54.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/c49%2Fimage-87f4f62e13e9df4ab26c063f2a0afa11-wcs-2016-bz-spu-002b-39504f46-8461-4fda-be7b-d969ee459d54.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2114,
+                "width": 2431
+              },
+              "target": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/7fe%2Fimage-e1d69979092604162551f66c684ae0d2-wcs-2016-bz-spu-002c-0b7d7442-3f0b-4811-bee0-c0bca90cb95b.jpg/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 209
+        }
+      ],
+      "height": 2096,
+      "width": 2402,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/page/p3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/annotation/p3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/7fe%2Fimage-e1d69979092604162551f66c684ae0d2-wcs-2016-bz-spu-002c-0b7d7442-3f0b-4811-bee0-c0bca90cb95b.jpg/full/240,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 209
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/7fe%2Fimage-e1d69979092604162551f66c684ae0d2-wcs-2016-bz-spu-002c-0b7d7442-3f0b-4811-bee0-c0bca90cb95b.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/7fe%2Fimage-e1d69979092604162551f66c684ae0d2-wcs-2016-bz-spu-002c-0b7d7442-3f0b-4811-bee0-c0bca90cb95b.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2096,
+                "width": 2402
+              },
+              "target": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/a9d%2Fimage-87d58497c8cb206cf32999d5b36f4cae-wcs-2016-bz-spu-002d-7163b33b-9f4f-41ea-8ec5-321427c8f357.jpg/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 204
+        }
+      ],
+      "height": 2106,
+      "width": 2474,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/page/p4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/annotation/p4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/a9d%2Fimage-87d58497c8cb206cf32999d5b36f4cae-wcs-2016-bz-spu-002d-7163b33b-9f4f-41ea-8ec5-321427c8f357.jpg/full/240,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 204
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/a9d%2Fimage-87d58497c8cb206cf32999d5b36f4cae-wcs-2016-bz-spu-002d-7163b33b-9f4f-41ea-8ec5-321427c8f357.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/a9d%2Fimage-87d58497c8cb206cf32999d5b36f4cae-wcs-2016-bz-spu-002d-7163b33b-9f4f-41ea-8ec5-321427c8f357.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2106,
+                "width": 2474
+              },
+              "target": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/8ee%2Fimage-6afbd85cc11339121a8bddbde0f34339-wcs-2016-bz-spu-002e-a747f4ff-1422-416e-a714-c3013c025ff0.jpg/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 212
+        }
+      ],
+      "height": 2123,
+      "width": 2403,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/page/p5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/annotation/p5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/8ee%2Fimage-6afbd85cc11339121a8bddbde0f34339-wcs-2016-bz-spu-002e-a747f4ff-1422-416e-a714-c3013c025ff0.jpg/full/240,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 212
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/8ee%2Fimage-6afbd85cc11339121a8bddbde0f34339-wcs-2016-bz-spu-002e-a747f4ff-1422-416e-a714-c3013c025ff0.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/8ee%2Fimage-6afbd85cc11339121a8bddbde0f34339-wcs-2016-bz-spu-002e-a747f4ff-1422-416e-a714-c3013c025ff0.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2123,
+                "width": 2403
+              },
+              "target": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://studio.esmero.io/cantaloupe/iiif/2/d70%2Fimage-06079b258665ce26c34b724fa7a65b06-wcs-2016-bz-spu-002f-def778dc-deae-4ef2-bbbf-5eec19dbf253.jpg/full/240,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 240,
+          "height": 211
+        }
+      ],
+      "height": 2124,
+      "width": 2419,
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/page/p6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/annotation/p6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "thumbnail": [
+                {
+                  "id": "https://studio.esmero.io/cantaloupe/iiif/2/d70%2Fimage-06079b258665ce26c34b724fa7a65b06-wcs-2016-bz-spu-002f-def778dc-deae-4ef2-bbbf-5eec19dbf253.jpg/full/240,/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "width": 240,
+                  "height": 211
+                }
+              ],
+              "body": {
+                "id": "https://studio.esmero.io/cantaloupe/iiif/2/d70%2Fimage-06079b258665ce26c34b724fa7a65b06-wcs-2016-bz-spu-002f-def778dc-deae-4ef2-bbbf-5eec19dbf253.jpg/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://studio.esmero.io/cantaloupe/iiif/2/d70%2Fimage-06079b258665ce26c34b724fa7a65b06-wcs-2016-bz-spu-002f-def778dc-deae-4ef2-bbbf-5eec19dbf253.jpg",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ],
+                "height": 2124,
+                "width": 2419
+              },
+              "target": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/range/r1",
+      "type": "Range",
+      "label": {
+        "en": [
+          "New York Zoological Park photo booklet, 1905"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p1",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p2",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p3",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p4",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p5",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://studio.esmero.io/do/9083aa6e-0433-4f9e-a079-b09685edef4a/iiif/canvas/p6",
+          "type": "Canvas"
+        }
+      ]
+    }
+  ]
+}
