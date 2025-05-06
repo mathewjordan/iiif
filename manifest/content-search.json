@@ -4,7 +4,7 @@
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "type": "Manifest",
-  "id": "https://studio.esmero.io/do/c33deb5f-97b2-4529-b823-55e5ed04ccdc/metadata/iiifmanifest/Archipelago%20Workshop%20Presentation%20%3A%20IIIF%20Annual%202023_manifest.jsonld",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/content-search.json",
   "label": {
     "en": [
       "Archipelago Workshop Presentation : IIIF Annual 2023"
