@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "http://localhost:3000/manifest/content-state/point-selector.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/content-state/point-selector.json",
   "type": "Annotation",
   "motivation": ["contentState"],
   "target": {
