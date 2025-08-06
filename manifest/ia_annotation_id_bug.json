@@ -58,7 +58,7 @@
       "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$2/canvas",
       "items": [
         {
-          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/2",
           "items": [
             {
               "body": {
@@ -75,7 +75,7 @@
                 "type": "Image",
                 "width": 1080
               },
-              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/2",
               "motivation": "painting",
               "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$2/canvas",
               "type": "Annotation"
@@ -97,7 +97,7 @@
       "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$3/canvas",
       "items": [
         {
-          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/3",
           "items": [
             {
               "body": {
@@ -114,7 +114,7 @@
                 "type": "Image",
                 "width": 1440
               },
-              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/3",
               "motivation": "painting",
               "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$3/canvas",
               "type": "Annotation"
@@ -136,7 +136,7 @@
       "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$4/canvas",
       "items": [
         {
-          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/4",
           "items": [
             {
               "body": {
@@ -153,7 +153,7 @@
                 "type": "Image",
                 "width": 1440
               },
-              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/4",
               "motivation": "painting",
               "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$4/canvas",
               "type": "Annotation"
