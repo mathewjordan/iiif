@@ -1,0 +1,388 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "homepage": [
+    {
+      "format": "text/html",
+      "id": "https://archive.org/details/an_0351_0366_growplantsnotprisons",
+      "label": {
+        "en": [
+          "Item Page on Internet Archive"
+        ]
+      },
+      "type": "Text"
+    }
+  ],
+  "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/manifest.json",
+  "items": [
+    {
+      "height": 524,
+      "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$1/canvas",
+      "items": [
+        {
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 524,
+                "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo.jpg/full/max/0/default.jpg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo.jpg",
+                    "profile": "level2",
+                    "type": "ImageService3"
+                  }
+                ],
+                "type": "Image",
+                "width": 525
+              },
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "motivation": "painting",
+              "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$1/canvas",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "0351_0366_growplantsnotprisons_oo.jpg"
+        ]
+      },
+      "type": "Canvas",
+      "width": 525
+    },
+    {
+      "height": 1079,
+      "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$2/canvas",
+      "items": [
+        {
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 1079,
+                "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo1.jpg/full/max/0/default.jpg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo1.jpg",
+                    "profile": "level2",
+                    "type": "ImageService3"
+                  }
+                ],
+                "type": "Image",
+                "width": 1080
+              },
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "motivation": "painting",
+              "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$2/canvas",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "0351_0366_growplantsnotprisons_oo1.jpg"
+        ]
+      },
+      "type": "Canvas",
+      "width": 1080
+    },
+    {
+      "height": 1800,
+      "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$3/canvas",
+      "items": [
+        {
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 1800,
+                "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo2.jpg/full/max/0/default.jpg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo2.jpg",
+                    "profile": "level2",
+                    "type": "ImageService3"
+                  }
+                ],
+                "type": "Image",
+                "width": 1440
+              },
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "motivation": "painting",
+              "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$3/canvas",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "0351_0366_growplantsnotprisons_oo2.jpg"
+        ]
+      },
+      "type": "Canvas",
+      "width": 1440
+    },
+    {
+      "height": 1800,
+      "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$4/canvas",
+      "items": [
+        {
+          "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotationPage/1",
+          "items": [
+            {
+              "body": {
+                "format": "image/jpeg",
+                "height": 1800,
+                "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo3.jpg/full/max/0/default.jpg",
+                "service": [
+                  {
+                    "id": "https://iiif.archive.org/image/iiif/3/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo3.jpg",
+                    "profile": "level2",
+                    "type": "ImageService3"
+                  }
+                ],
+                "type": "Image",
+                "width": 1440
+              },
+              "id": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons/annotation/1",
+              "motivation": "painting",
+              "target": "https://iiif.archive.org/iiif/an_0351_0366_growplantsnotprisons$4/canvas",
+              "type": "Annotation"
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "label": {
+        "none": [
+          "0351_0366_growplantsnotprisons_oo3.jpg"
+        ]
+      },
+      "type": "Canvas",
+      "width": 1440
+    }
+  ],
+  "label": {
+    "none": [
+      "Grow Plants Not Prisons"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "identifier"
+        ]
+      },
+      "value": {
+        "none": [
+          "an_0351_0366_growplantsnotprisons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "collection"
+        ]
+      },
+      "value": {
+        "none": [
+          "abolition-now-images"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "mediatype"
+        ]
+      },
+      "value": {
+        "none": [
+          "image"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Grow Plants Not Prisons"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "addeddate"
+        ]
+      },
+      "value": {
+        "none": [
+          "2025-04-09 12:56:30"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Solitary Garden (jackie sumell)"
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://iiif.archive.org/iiif/abolition-now-images/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "provider": [
+    {
+      "homepage": [
+        {
+          "format": "text/html",
+          "id": "https://archive.org",
+          "label": {
+            "en": [
+              "Internet Archive Homepage"
+            ]
+          },
+          "type": "Text"
+        }
+      ],
+      "id": "https://archive.org",
+      "label": {
+        "en": [
+          "The Internet Archive"
+        ]
+      },
+      "logo": [
+        {
+          "format": "image/png",
+          "height": 79,
+          "id": "https://archive.org/images/glogo.png",
+          "type": "Image",
+          "width": 79
+        }
+      ],
+      "type": "Agent"
+    }
+  ],
+  "rendering": [
+    {
+      "format": "application/x-bittorrent",
+      "id": "https://archive.org/download/an_0351_0366_growplantsnotprisons/an_0351_0366_growplantsnotprisons_archive.torrent",
+      "label": {
+        "en": [
+          "Archive BitTorrent"
+        ]
+      },
+      "type": "Dataset"
+    }
+  ],
+  "seeAlso": [
+    {
+      "format": "application/json",
+      "id": "https://archive.org/metadata/an_0351_0366_growplantsnotprisons",
+      "label": {
+        "en": [
+          "Item Metadata"
+        ]
+      },
+      "type": "Metadata"
+    }
+  ],
+  "thumbnail": [
+    {
+      "format": "image/jpeg",
+      "height": 192,
+      "id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2f0351_0366_growplantsnotprisons_oo1_thumb.jpg/full/192,/0/default.jpg",
+      "service": [
+        {
+          "@id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo1_thumb.jpg",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ],
+      "type": "Image",
+      "width": 192
+    },
+    {
+      "format": "image/jpeg",
+      "height": 192,
+      "id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2f0351_0366_growplantsnotprisons_oo2_thumb.jpg/full/154,/0/default.jpg",
+      "service": [
+        {
+          "@id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo2_thumb.jpg",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ],
+      "type": "Image",
+      "width": 154
+    },
+    {
+      "format": "image/jpeg",
+      "height": 192,
+      "id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2f0351_0366_growplantsnotprisons_oo3_thumb.jpg/full/154,/0/default.jpg",
+      "service": [
+        {
+          "@id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo3_thumb.jpg",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ],
+      "type": "Image",
+      "width": 154
+    },
+    {
+      "format": "image/jpeg",
+      "height": 192,
+      "id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2f0351_0366_growplantsnotprisons_oo_thumb.jpg/full/192,/0/default.jpg",
+      "service": [
+        {
+          "@id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2F0351_0366_growplantsnotprisons_oo_thumb.jpg",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ],
+      "type": "Image",
+      "width": 192
+    },
+    {
+      "format": "image/jpeg",
+      "height": 180,
+      "id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2f__ia_thumb.jpg/full/180,/0/default.jpg",
+      "service": [
+        {
+          "@id": "https://iiif.archive.org/image/iiif/2/an_0351_0366_growplantsnotprisons%2F__ia_thumb.jpg",
+          "@type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+      ],
+      "type": "Image",
+      "width": 180
+    }
+  ],
+  "type": "Manifest"
+}
