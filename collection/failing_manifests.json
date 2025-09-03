@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "type": "Collection",
+  "label": {
+    "none": ["Failing manifests collection"]
+  },
+  "items": [
+    {
+      "id": "https://iiif.archive.org/iiif/an_0007_summerjamsuperjail/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Should 200"]
+      },
+    },
+    {
+      "id": "https://iiif.archive.org/iiif/an_0158_ahedtamimi/manifest.json",
+      "type": "Manifest",
+      "label": {
+        "none": ["Should 500"]
+      },
+    }
+  ]
+}
