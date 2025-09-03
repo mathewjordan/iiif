@@ -1,24 +1,30 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/collection/failing_manifests.json",
-  "type": "Collection",
-  "label": {
-    "none": ["Failing manifests collection"]
-  },
-  "items": [
-    {
-      "id": "https://iiif.archive.org/iiif/an_0007_summerjamsuperjail/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "none": ["Should 200"]
-      },
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/collection/failing_manifests.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Failing manifests collection"
+        ]
     },
-    {
-      "id": "https://iiif.archive.org/iiif/an_0158_ahedtamimi/manifest.json",
-      "type": "Manifest",
-      "label": {
-        "none": ["Should 500"]
-      },
-    }
-  ]
+    "items": [
+        {
+            "id": "https://iiif.archive.org/iiif/an_0007_summerjamsuperjail/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Should 200"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.archive.org/iiif/an_0158_ahedtamimi/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Should 500"
+                ]
+            }
+        }
+    ]
 }
