@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/collection/failing_manifests.json",
   "type": "Collection",
   "label": {
     "none": ["Failing manifests collection"]
