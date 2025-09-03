@@ -1,4 +1,5 @@
 {
+  "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/collection/failing_manifests.json",
   "type": "Collection",
   "label": {
