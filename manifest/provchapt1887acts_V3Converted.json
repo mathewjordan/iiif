@@ -1,0 +1,779 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json",
+  "@type": "Manifest",
+  "label": {
+    "en": [
+      "Provincial chapter 1887 acts"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Passionists"
+        ]
+      },
+      "value": {
+        "en": [
+          "Chapters"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provincial Chapters"
+        ]
+      },
+      "value": {
+        "en": [
+          "19th Century"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p1",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 1"
+        ]
+      },
+      "height": 3036,
+      "width": 2409,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p1/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0001-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p1",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-01.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3036,
+                "width": 2409,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-01.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p2",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 2"
+        ]
+      },
+      "height": 3014,
+      "width": 2394,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p2/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0002-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p2",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-02.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3014,
+                "width": 2394,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-02.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p3",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 3"
+        ]
+      },
+      "height": 3036,
+      "width": 2412,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p3/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0003-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p3",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-03.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3036,
+                "width": 2412,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-03.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p4",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 4"
+        ]
+      },
+      "height": 3036,
+      "width": 2372,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p4/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0004-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p4",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-04.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3036,
+                "width": 2372,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-04.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p5",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 5"
+        ]
+      },
+      "height": 3028,
+      "width": 2398,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p5/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0005-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p5",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-05.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3028,
+                "width": 2398,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-05.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p6",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 6"
+        ]
+      },
+      "height": 3014,
+      "width": 2383,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p6/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0006-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p6",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-06.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3014,
+                "width": 2383,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-06.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p7",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 7"
+        ]
+      },
+      "height": 3017,
+      "width": 2412,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p7/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0007-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p7",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-07.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3017,
+                "width": 2412,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-07.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p8",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 8"
+        ]
+      },
+      "height": 3043,
+      "width": 2409,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p8/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0008-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p8",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-08.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3043,
+                "width": 2409,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-08.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p9",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 9"
+        ]
+      },
+      "height": 3032,
+      "width": 2401,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p9/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0009-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p9",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-09.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3032,
+                "width": 2401,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-09.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p10",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 10"
+        ]
+      },
+      "height": 3043,
+      "width": 2424,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p10/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0010-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p10",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-10.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3043,
+                "width": 2424,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-10.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p11",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 11"
+        ]
+      },
+      "height": 3036,
+      "width": 2401,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p11/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0011-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p11",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-11.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3036,
+                "width": 2401,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-11.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p12",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 12"
+        ]
+      },
+      "height": 3043,
+      "width": 2409,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p12/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0012-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p12",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-12.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3043,
+                "width": 2409,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-12.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p13",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 13"
+        ]
+      },
+      "height": 3054,
+      "width": 2420,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p13/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0013-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p13",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-13.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3054,
+                "width": 2420,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-13.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p14",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 14"
+        ]
+      },
+      "height": 3032,
+      "width": 2412,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p14/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0014-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p14",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-14.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3032,
+                "width": 2412,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-14.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p15",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 15"
+        ]
+      },
+      "height": 3047,
+      "width": 2401,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p15/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0015-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p15",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-15.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3047,
+                "width": 2401,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-15.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p16",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 16"
+        ]
+      },
+      "height": 3047,
+      "width": 2401,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p16/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0016-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p16",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-16.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3047,
+                "width": 2401,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-16.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p17",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 17"
+        ]
+      },
+      "height": 3043,
+      "width": 2401,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p17/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0017-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p17",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-17.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3043,
+                "width": 2401,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-17.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p18",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 18"
+        ]
+      },
+      "height": 3032,
+      "width": 2394,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p18/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0018-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p18",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-18.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3032,
+                "width": 2394,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-18.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p19",
+      "@type": "Canvas",
+      "label": {
+        "en": [
+          "Page 19"
+        ]
+      },
+      "height": 3032,
+      "width": 2405,
+      "items": [
+        {
+          "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/page/p19/1",
+          "@type": "AnnotationPage",
+          "items": [
+            {
+              "@id": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/annotation/p0019-image",
+              "@type": "Annotation",
+              "motivation": "painting",
+              "target": "https://passionistarchives.ie/wp-content/uploads/2025/10/provchapt1887acts_V3Converted.json/canvas/p19",
+              "body": {
+                "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-19.jpg/full/full/0/default.jpg",
+                "@type": "Image",
+                "format": "image/jpeg",
+                "height": 3032,
+                "width": 2405,
+                "service": [
+                  {
+                    "@id": "https://www.baimages.ie/iiif/2/TpassionistsTprovchapt1887-19.jpg",
+                    "@type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level2.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
