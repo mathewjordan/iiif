@@ -1,0 +1,375 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 159. Jumping, running broad jump"
+    ]
+  },
+  "items": [
+    {
+      "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 159. Jumping, running broad jump"
+        ]
+      },
+      "height": 576,
+      "width": 374,
+      "duration": 2,
+      "behavior": [
+        "auto-advance",
+        "repeat"
+      ],
+      "items": [
+        {
+          "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:0.9216,3.3454,7.8734,45.8220/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 374,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:0.9216,3.3454,7.8734,45.8220"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=0,0.167"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:9.2347,3.5300,7.6159,45.8220/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 361,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:9.2347,3.5300,7.6159,45.8220"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=0.167,0.333"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:17.5129,3.8077,7.7999,44.7112/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 562,
+                "width": 370,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:17.5129,3.8077,7.7999,44.7112"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=0.333,0.5"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:25.6974,3.2002,7.8568,45.3230/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 570,
+                "width": 373,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:25.6974,3.2002,7.8568,45.3230"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=0.5,0.667"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:33.6806,3.1766,7.9184,45.1729/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 376,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:33.6806,3.1766,7.9184,45.1729"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=0.667,0.833"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:42.1409,3.1793,7.8139,44.6615/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 561,
+                "width": 371,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:42.1409,3.1793,7.8139,44.6615"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=0.833,1"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:50.2710,3.6907,7.9494,44.1501/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 377,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:50.2710,3.6907,7.9494,44.1501"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=1,1.167"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:58.7624,3.3503,7.7237,44.4905/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 559,
+                "width": 366,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:58.7624,3.3503,7.7237,44.4905"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=1.167,1.333"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:66.8925,3.3498,7.8139,45.1729/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 371,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:66.8925,3.3498,7.8139,45.1729"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=1.333,1.5"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:75.0226,3.6907,7.9494,44.8319/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 564,
+                "width": 377,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:75.0226,3.6907,7.9494,44.8319"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=1.5,1.667"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:83.3333,3.6907,7.5881,44.1501/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 555,
+                "width": 360,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:83.3333,3.6907,7.5881,44.1501"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=1.667,1.833"
+            },
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/pct:91.4182,4.7135,7.6784,43.2978/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 544,
+                "width": 364,
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pct:91.4182,4.7135,7.6784,43.2978"
+                },
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/animation#t=1.833,2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 159. Jumping, running broad jump"
+        ]
+      },
+      "height": 1257,
+      "width": 4744,
+      "items": [
+        {
+          "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1257,
+                "width": 4744,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/b1317e06-3732-4ff7-921f-c3dbedb9ee84",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
