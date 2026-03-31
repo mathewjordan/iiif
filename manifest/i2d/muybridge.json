@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "urn:uuid:abede602-b711-4c16-89cc-0537751c26d8",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/i2d/muybrdige.json",
   "type": "Manifest",
   "label": {
     "en": [
