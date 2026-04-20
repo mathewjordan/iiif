@@ -1,0 +1,283 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Plate Number 736. Egyptian camel racking"
+    ]
+  },
+  "items": [
+    {
+      "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 736. Egyptian camel racking"
+        ]
+      },
+      "height": 605,
+      "width": 853,
+      "duration": 1.6,
+      "behavior": [
+        "auto-advance",
+        "repeat"
+      ],
+      "items": [
+        {
+          "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:1.5538,1.6398,24.1628,23.2893/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 605,
+                "width": 853
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0,0.1"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:25.8051,1.7200,24.1923,23.1690/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 602,
+                "width": 854
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.1,0.2"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:50.0858,1.6799,24.0448,23.1490/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 601,
+                "width": 849
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.2,0.3"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:74.2486,1.6599,24.0154,23.1089/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 600,
+                "width": 848
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.3,0.4"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:1.4337,27.4242,24.1611,21.8685/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 853
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.4,0.5"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:25.7751,27.2683,23.9973,22.0244/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 848
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.5,0.6"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:49.9362,27.0679,24.1775,22.0244/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 572,
+                "width": 854
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.6,0.7"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:74.2120,27.1995,23.9655,21.8482/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 568,
+                "width": 846
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.7,0.8"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:1.4205,51.7614,24.2267,22.2693/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 579,
+                "width": 856
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.8,0.9"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:25.7127,51.7836,24.0629,22.1580/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 850
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=0.9,1"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:49.8738,51.6277,24.1448,22.1802/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 853
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=1,1.1"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:74.0841,51.4941,24.0956,22.3361/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 580,
+                "width": 851
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=1.1,1.2"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:1.5843,76.6807,23.9973,22.2025/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 577,
+                "width": 848
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=1.2,1.3"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:25.7290,76.7475,23.9646,22.1357/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 575,
+                "width": 846
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=1.3,1.4"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:49.9066,76.4803,23.9973,22.1802/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 576,
+                "width": 848
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=1.4,1.5"
+            },
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation/page/1/annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/pct:74.0186,76.5916,24.0629,22.0466/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 573,
+                "width": 850
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/animation#t=1.5,1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/static",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Plate Number 736. Egyptian camel racking"
+        ]
+      },
+      "height": 2598,
+      "width": 3532,
+      "items": [
+        {
+          "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/static/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/static/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2598,
+                "width": 3532,
+                "service": [
+                  {
+                    "id": "https://api.nga.gov/iiif/4821d480-c259-4f19-bc63-880d77e0aed0",
+                    "type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              },
+              "target": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9/canvas/static"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
