@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "urn:uuid:31229881-cb0f-4483-bacb-a80d6791d5d9",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/camel-animated.json",
   "type": "Manifest",
   "label": {
     "en": [
