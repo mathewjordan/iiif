@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0560-resources-on-a-timeline/manifest.json",
+  "id": "https://raw.githubusercontent.com/mathewjordan/iiif/refs/heads/main/manifest/cookbook/0560-timeline.json",
   "type": "Manifest",
   "label": {
     "en": [
