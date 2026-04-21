@@ -8,7 +8,8 @@
     ]
   },
   "behavior": [
-    "repeat"
+    "repeat",
+    "auto-advance"
   ],
   "items": [
     {
