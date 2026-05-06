@@ -1,0 +1,21 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/15346367-c39a-46ac-a9a0-17b2c6137c3a/annotations?as=iiif",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/15346367-c39a-46ac-a9a0-17b2c6137c3a/annotations?as=iiif/a0",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PROJECT 6168.\nWA 121 (Rev. 7-72)\nDEPARTMENT OF TRANSPORTATION\nATED STATES GOVERNMENT\nFEDERAL HIGHWAY ADMINISTRATION\nMemorandum\nOCT 7 1976\nDATE:\n.\nIn reply\nHEV-11\nSection 4(f) Statement\nrefer to:\nACTION:\nSUBJECT.\nFROM . Chief, Environmental Programs Division\n10\nMr. Dowell H. Anders\nHCC-1\nActing Chief Counsel\nIllinois - Cook County, US-30, Project U-239(\nRe:\nCicero Avenue to Chicago Road\nIn accordance with Section 9b of DOT Order 5610.1B, the attached\nSection 4(f) statement is being submitted for your review\nfor legal sufficiency. The statement complies with the format of our\nguidelines, and we invite your early response.\nRex I.\nAttachment\n.\n•\nÞ\nFederal Highway Administration\nCopies to:\nL. P. Lamm, 4218\nEPD Chron, 3232",
+        "format": "text/plain",
+        "language": [
+          "en"
+        ]
+      },
+      "target": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8?as=iiif/canvas/3"
+    }
+  ]
+}
