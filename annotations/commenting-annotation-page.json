@@ -15,7 +15,19 @@
           "en"
         ]
       },
-      "target": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8?as=iiif/canvas/3"
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8?as=iiif/canvas/3",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8?as=iiif",
+              "type": "Manifest"
+            }
+          ]
+        }
+      }
     }
   ]
 }
